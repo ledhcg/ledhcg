@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2 align="center">.aboutMe()</h2>
 
-<!--
-**ledhcg/ledhcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+import nationality from "vietnam";
+import now from "russia";
 
-Here are some ideas to get you started:
+function getBio() {
+	return {
+        "Full name":    "Le Dinh Cuong",
+        "Nationality"   nationality,
+		"Quick bio:":   "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
+		"Description":  "I'm originally from Thanh Hoa, Vietnam and an alumnus of [Lam Son High School for the      Gifted] and [Academy of Cryptography Techniques]. Currenly, I'm an international student in Russia. I love the internet, technology, music, sports, dogs, cats, children, ... and building beautiful things.",
+		"Major":        "Software Engineering"
+        "Experience":   "FS Developer, Designer, Photographer, Editor"
+		"Address":      now.address,
+		"Email":        "mail@ledinhcuong.com",
+		"Website:":     "https://ledinhcuong.com",
+	}
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function main() {
+  let bio = getBio();
+  for(let key in bio){
+       let info = bio[key];
+       console.info(info);
+  } 
+}
+
+main()
+```
