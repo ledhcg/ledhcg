@@ -8,7 +8,7 @@ function getBio() {
     return {
         "Full name":    "Le Dinh Cuong",
         "Nationality":  me.nationality,
-        "Quick bio":   "La vie est faite de petits bonheurs."
+        "Quick bio":    "La vie est faite de petits bonheurs."
         "Description":  [
             "I'm originally from Thanh Hoa, Vietnam and an alumnus of [Lam Son High School for the Gifted]",
             "and [Academy of Cryptography Techniques]. Currenly, I'm an international student in Russia.",
@@ -18,7 +18,7 @@ function getBio() {
         "Experience":   "Web Developer, Designer, Photographer, Editor",
         "Address":      now.address,
         "Email":        "mail@ledinhcuong.com",
-        "Website":     "https://ledinhcuong.com"
+        "Website":      "https://ledinhcuong.com"
     }
 }
 
