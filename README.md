@@ -1,6 +1,6 @@
 <h2 align="center">.aboutMe()</h2>
 
-```javascript
+```js
 import me from "vietnam";
 import now from "russia";
 
