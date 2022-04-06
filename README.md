@@ -19,7 +19,7 @@ function getBio() {
         "Address":      now.address,
         "Email":        "mail@ledinhcuong.com",
         "Website:":     "https://ledinhcuong.com"
-	}
+    }
 }
 
 function main() {
