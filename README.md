@@ -5,7 +5,7 @@ import me from "vietnam";
 import now from "russia";
 
 function getBio() {
-	return {
+    return {
         "Full name":    "Le Dinh Cuong",
         "Nationality":  me.nationality,
         "Quick bio:":   "La vie est faite de petits bonheurs."
@@ -14,11 +14,11 @@ function getBio() {
             "and [Academy of Cryptography Techniques]. Currenly, I'm an international student in Russia.",
             "I love the internet, technology, music, sports, dogs, cats, children, ... and building beautiful things."
         ],
-		"Major":        "Software Engineering",
+        "Major":        "Software Engineering",
         "Experience":   "Web Developer, Designer, Photographer, Editor",
-		"Address":      now.address,
-		"Email":        "mail@ledinhcuong.com",
-		"Website:":     "https://ledinhcuong.com",
+        "Address":      now.address,
+        "Email":        "mail@ledinhcuong.com",
+        "Website:":     "https://ledinhcuong.com"
 	}
 }
 
