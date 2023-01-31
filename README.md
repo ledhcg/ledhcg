@@ -18,8 +18,8 @@ _________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"An artist must never be a prisoner. Prisoner? An artist should never be a prisoner of himself, prisoner of style, prisoner of reputation, prisoner of success, etc."
-<!-- Henri Matisse -->
+"Run toward the hardest problems. This approach has helped me to learn a tremendous amount from both success and failure."
+<!-- Lisa Su -->
 ```
 
 </div>
