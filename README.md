@@ -18,8 +18,8 @@ _________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The secret of your success is determined by your daily agenda."
-<!-- John C. Maxwell -->
+"An artist must never be a prisoner. Prisoner? An artist should never be a prisoner of himself, prisoner of style, prisoner of reputation, prisoner of success, etc."
+<!-- Henri Matisse -->
 ```
 
 </center>
