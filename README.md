@@ -18,8 +18,8 @@ _________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Run toward the hardest problems. This approach has helped me to learn a tremendous amount from both success and failure."
-<!-- Lisa Su -->
+"Success doesn't find you when you're alone in your house."
+<!-- Katya Zamolodchikova -->
 ```
 
 </div>
