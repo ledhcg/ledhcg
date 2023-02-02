@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a journey, not a destination. The doing is often more important than the outcome."
-<!-- Arthur Ashe -->
+"Strive not to be a success, but rather to be of value."
+<!-- Albert Einstein -->
 ```
 
 </div>
