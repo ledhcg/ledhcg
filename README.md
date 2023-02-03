@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Strive not to be a success, but rather to be of value."
-<!-- Albert Einstein -->
+"My songs are the door to every dream I've ever had and every success I've ever achieved."
+<!-- Dolly Parton -->
 ```
 
 </div>
