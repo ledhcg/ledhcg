@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My songs are the door to every dream I've ever had and every success I've ever achieved."
-<!-- Dolly Parton -->
+"Success must never be measured by how much money you have."
+<!-- Zig Ziglar -->
 ```
 
 </div>
