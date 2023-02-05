@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success must never be measured by how much money you have."
-<!-- Zig Ziglar -->
+"Success in foreign policy, as in carpentry, requires the right tools for the job."
+<!-- Richard N. Haass -->
 ```
 
 </div>
