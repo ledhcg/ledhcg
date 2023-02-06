@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success in foreign policy, as in carpentry, requires the right tools for the job."
-<!-- Richard N. Haass -->
+"Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming."
+<!-- John Wooden -->
 ```
 
 </div>
