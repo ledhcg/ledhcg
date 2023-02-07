@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming."
-<!-- John Wooden -->
+"I couldn't wait for success, so I went ahead without it."
+<!-- Jonathan Winters -->
 ```
 
 </div>
