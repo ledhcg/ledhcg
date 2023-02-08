@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I couldn't wait for success, so I went ahead without it."
-<!-- Jonathan Winters -->
+"Success is achieved by developing our strengths, not by eliminating our weaknesses."
+<!-- Marilyn vos Savant -->
 ```
 
 </div>
