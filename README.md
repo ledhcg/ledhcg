@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is achieved by developing our strengths, not by eliminating our weaknesses."
-<!-- Marilyn vos Savant -->
+"Success is best when it's shared."
+<!-- Howard Schultz -->
 ```
 
 </div>
