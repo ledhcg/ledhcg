@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is best when it's shared."
-<!-- Howard Schultz -->
+"Success is about honour, feeling morally calibrated, absence of shame, not what some newspaper defines from an external metric."
+<!-- Nassim Nicholas Taleb -->
 ```
 
 </div>
