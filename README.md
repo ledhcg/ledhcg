@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is about honour, feeling morally calibrated, absence of shame, not what some newspaper defines from an external metric."
-<!-- Nassim Nicholas Taleb -->
+"If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress."
+<!-- Calvin Coolidge -->
 ```
 
 </div>
