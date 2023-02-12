@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress."
-<!-- Calvin Coolidge -->
+"Enjoying success requires the ability to adapt. Only by being open to change will you have a true opportunity to get the most from your talent."
+<!-- Nolan Ryan -->
 ```
 
 </div>
