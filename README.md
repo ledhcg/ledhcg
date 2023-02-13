@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Enjoying success requires the ability to adapt. Only by being open to change will you have a true opportunity to get the most from your talent."
-<!-- Nolan Ryan -->
+"I would like to tell the young men and women before me not to lose hope and courage. Success can only come to you by courageous devotion to the task lying in front of you."
+<!-- C. V. Raman -->
 ```
 
 </div>
