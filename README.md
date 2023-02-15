@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Adjusting to the passage of time, I think, is a key to success and to life: just being able to roll with the punches."
-<!-- Dolly Parton -->
+"True leaders don't invest in buildings. Jesus never built a building. They invest in people. Why? Because success without a successor is failure. So your legacy should not be in buildings, programs, or projects; your legacy must be in people."
+<!-- Myles Munroe -->
 ```
 
 </div>
