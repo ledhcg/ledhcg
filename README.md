@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My powers are ordinary. Only my application brings me success."
-<!-- Isaac Newton -->
+"She's the kind of girl who climbed the ladder of success wrong by wrong."
+<!-- Mae West -->
 ```
 
 </div>
