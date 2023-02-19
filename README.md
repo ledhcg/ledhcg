@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success doesn't motivate me as much as integrity does. Everyone loses. I enjoy the pressure of showing up every single day, being focused, putting forth my best effort, getting the best out of my teammates, and enjoying the journey."
-<!-- Becky Sauerbrunn -->
+"Success is the progressive realization of a worthy goal or ideal."
+<!-- Earl Nightingale -->
 ```
 
 </div>
