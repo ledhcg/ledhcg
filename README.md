@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the progressive realization of a worthy goal or ideal."
-<!-- Earl Nightingale -->
+"You never achieve success unless you like what you are doing."
+<!-- Dale Carnegie -->
 ```
 
 </div>
