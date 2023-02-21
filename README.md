@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You never achieve success unless you like what you are doing."
-<!-- Dale Carnegie -->
+"Anything that won't sell, I don't want to invent. Its sale is proof of utility, and utility is success."
+<!-- Thomas A. Edison -->
 ```
 
 </div>
