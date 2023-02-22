@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Anything that won't sell, I don't want to invent. Its sale is proof of utility, and utility is success."
-<!-- Thomas A. Edison -->
+"The real metric of success isn't the size of your bank account. It's the number of lives in whom you might be able to make a positive difference."
+<!-- Naveen Jain -->
 ```
 
 </div>
