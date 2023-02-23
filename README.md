@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The real metric of success isn't the size of your bank account. It's the number of lives in whom you might be able to make a positive difference."
-<!-- Naveen Jain -->
+"Success is always dangerous, and we need to be alert and avoid becoming the victims of our own success. Will we influence the world for Christ, or will the world influence us?"
+<!-- Billy Graham -->
 ```
 
 </div>
