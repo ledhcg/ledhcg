@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is always dangerous, and we need to be alert and avoid becoming the victims of our own success. Will we influence the world for Christ, or will the world influence us?"
-<!-- Billy Graham -->
+"It's both rebellion and conformity that attack you with success."
+<!-- Amy Tan -->
 ```
 
 </div>
