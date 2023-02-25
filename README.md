@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's both rebellion and conformity that attack you with success."
-<!-- Amy Tan -->
+"The only durable sense of success is if you've followed your calling."
+<!-- Jim Harrison -->
 ```
 
 </div>
