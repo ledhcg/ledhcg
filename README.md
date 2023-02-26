@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The only durable sense of success is if you've followed your calling."
-<!-- Jim Harrison -->
+"Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist."
+<!-- Mary Kay Ash -->
 ```
 
 </div>
