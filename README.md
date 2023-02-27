@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist."
-<!-- Mary Kay Ash -->
+"It is wise to keep in mind that neither success nor failure is ever final."
+<!-- Roger Babson -->
 ```
 
 </div>
