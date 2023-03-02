@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We need to accept that we won't always make the right decisions, that we'll screw up royally sometimes - understanding that failure is not the opposite of success, it's part of success."
-<!-- Arianna Huffington -->
+"Mistakes are the best teachers. One does not learn from success. It is desirable to learn vicariously from other people's failures, but it gets much more firmly seared in when they are your own."
+<!-- Mohnish Pabrai -->
 ```
 
 </div>
