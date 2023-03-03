@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Mistakes are the best teachers. One does not learn from success. It is desirable to learn vicariously from other people's failures, but it gets much more firmly seared in when they are your own."
-<!-- Mohnish Pabrai -->
+"There's no path to success. Everyone constructs their own path. The important thing is to follow your heart. Find your niche, is my best advice."
+<!-- Karol G -->
 ```
 
 </div>
