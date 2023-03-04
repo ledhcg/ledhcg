@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's no path to success. Everyone constructs their own path. The important thing is to follow your heart. Find your niche, is my best advice."
-<!-- Karol G -->
+"If you wish to be a success in the world, promise everything, deliver nothing."
+<!-- Napoleon Bonaparte -->
 ```
 
 </div>
