@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you wish to be a success in the world, promise everything, deliver nothing."
-<!-- Napoleon Bonaparte -->
+"We need to accept that we won't always make the right decisions, that we'll screw up royally sometimes - understanding that failure is not the opposite of success, it's part of success."
+<!-- Arianna Huffington -->
 ```
 
 </div>
