@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We need to accept that we won't always make the right decisions, that we'll screw up royally sometimes - understanding that failure is not the opposite of success, it's part of success."
-<!-- Arianna Huffington -->
+"Any businessman will tell you that transportation is fundamental to success."
+<!-- John Hickenlooper -->
 ```
 
 </div>
