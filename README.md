@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Any businessman will tell you that transportation is fundamental to success."
-<!-- John Hickenlooper -->
+"Applause waits on success."
+<!-- Benjamin Franklin -->
 ```
 
 </div>
