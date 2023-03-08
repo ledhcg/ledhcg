@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Applause waits on success."
-<!-- Benjamin Franklin -->
+"Success has always been a great liar."
+<!-- Friedrich Nietzsche -->
 ```
 
 </div>
