@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is almost totally dependent upon drive and persistence. The extra energy required to make another effort or try another approach is the secret of winning."
-<!-- Denis Waitley -->
+"Remember you will not always win. Some days, the most resourceful individual will taste defeat. But there is, in this case, always tomorrow - after you have done your best to achieve success today."
+<!-- Maxwell Maltz -->
 ```
 
 </div>
