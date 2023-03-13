@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I attribute my success to this - I never gave or took any excuse."
-<!-- Florence Nightingale -->
+"A key to achieving success is to assemble a strong and stable management team."
+<!-- Vivek Wadhwa -->
 ```
 
 </div>
