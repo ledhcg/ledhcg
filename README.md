@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Prospering just doesn't have to do with money."
-<!-- Joel Osteen -->
+"Success is best when it's shared."
+<!-- Howard Schultz -->
 ```
 
 </div>
