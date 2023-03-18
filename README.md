@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is best when it's shared."
-<!-- Howard Schultz -->
+"Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties."
+<!-- Helen Keller -->
 ```
 
 </div>
