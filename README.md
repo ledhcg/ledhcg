@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties."
-<!-- Helen Keller -->
+"People are beginning to see that the first requisite to success in life is to be a good animal."
+<!-- Herbert Spencer -->
 ```
 
 </div>
