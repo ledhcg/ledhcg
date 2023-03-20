@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"People are beginning to see that the first requisite to success in life is to be a good animal."
-<!-- Herbert Spencer -->
+"Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success."
+<!-- C. S. Lewis -->
 ```
 
 </div>
