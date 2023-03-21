@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success."
-<!-- C. S. Lewis -->
+"Ambition is the path to success. Persistence is the vehicle you arrive in."
+<!-- Bill Bradley -->
 ```
 
 </div>
