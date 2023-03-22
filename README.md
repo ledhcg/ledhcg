@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Ambition is the path to success. Persistence is the vehicle you arrive in."
-<!-- Bill Bradley -->
+"Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come."
+<!-- Dwayne Johnson -->
 ```
 
 </div>
