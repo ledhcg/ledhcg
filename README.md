@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I've had a lot of success; I've had failures, so I learn from the failure."
-<!-- Gordon Ramsay -->
+"The victor belongs to the spoils."
+<!-- F. Scott Fitzgerald -->
 ```
 
 </div>
