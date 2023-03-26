@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Check your ego at the door. The ego can be the great success inhibitor. It can kill opportunities, and it can kill success."
-<!-- Dwayne Johnson -->
+"Success is never final, but failure can be."
+<!-- Bill Parcells -->
 ```
 
 </div>
