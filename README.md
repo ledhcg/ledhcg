@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is never final, but failure can be."
-<!-- Bill Parcells -->
+"The worst part of success is to try finding someone who is happy for you."
+<!-- Bette Midler -->
 ```
 
 </div>
