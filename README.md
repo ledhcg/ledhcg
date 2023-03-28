@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The worst part of success is to try finding someone who is happy for you."
-<!-- Bette Midler -->
+"There are people who make things happen, there are people who watch things happen, and there are people who wonder what happened. To be successful, you need to be a person who makes things happen."
+<!-- Jim Lovell -->
 ```
 
 </div>
