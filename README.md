@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"With success always comes criticism. I've been criticized every year of my life."
-<!-- Donovan Bailey -->
+"It's our nature: Human beings like success but they hate successful people."
+<!-- Carrot Top -->
 ```
 
 </div>
