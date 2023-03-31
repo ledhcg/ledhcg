@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's our nature: Human beings like success but they hate successful people."
-<!-- Carrot Top -->
+"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
+<!-- Colin Powell -->
 ```
 
 </div>
