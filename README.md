@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There will always be obstacles and challenges that stand in your way. Building mental strength will help you develop resilience to those potential hazards so you can continue on your journey to success."
-<!-- Amy Morin -->
+"I don't rely on feng shui. I believe hard work brings us good luck and success."
+<!-- John Gokongwei -->
 ```
 
 </div>
