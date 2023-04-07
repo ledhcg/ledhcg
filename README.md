@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Elegance is not a dispensable luxury but a factor that decides between success and failure."
-<!-- Edsger Dijkstra -->
+"Success is not in never failing, but rising everytime you fall!"
+<!-- Jonathan Taylor Thomas -->
 ```
 
 </div>
