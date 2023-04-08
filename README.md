@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is not in never failing, but rising everytime you fall!"
-<!-- Jonathan Taylor Thomas -->
+"The first principle of success is desire - knowing what you want. Desire is the planting of your seed."
+<!-- Robert Collier -->
 ```
 
 </div>
