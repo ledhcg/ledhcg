@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The first principle of success is desire - knowing what you want. Desire is the planting of your seed."
-<!-- Robert Collier -->
+"It takes 20 years to make an overnight success."
+<!-- Eddie Cantor -->
 ```
 
 </div>
