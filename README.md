@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It takes 20 years to make an overnight success."
-<!-- Eddie Cantor -->
+"Obedience brings success; exact obedience brings miracles."
+<!-- Russell M. Nelson -->
 ```
 
 </div>
