@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Obedience brings success; exact obedience brings miracles."
-<!-- Russell M. Nelson -->
+"Can you imagine what I would do if I could do all I can?"
+<!-- Jeff Rich -->
 ```
 
 </div>
