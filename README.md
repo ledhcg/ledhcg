@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Can you imagine what I would do if I could do all I can?"
-<!-- Jeff Rich -->
+"True success will come when you have the courage to be yourself."
+<!-- Marcela Valladolid -->
 ```
 
 </div>
