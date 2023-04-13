@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"True success will come when you have the courage to be yourself."
-<!-- Marcela Valladolid -->
+"Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties."
+<!-- Helen Keller -->
 ```
 
 </div>
