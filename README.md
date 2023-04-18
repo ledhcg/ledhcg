@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I recognise life is like a magnet. Positive and negative are on the opposite sides of the magnet. You can try to cut the negative part off, but it's still there. When you accept both of them, it's like, 'You know what? Don't get too identified with success or too identified with failure - just be cool with them.'"
-<!-- Craig David -->
+"I train heavy and hard every workout. That's the only way I knew. I know it was the key to my success."
+<!-- Ronnie Coleman -->
 ```
 
 </div>
