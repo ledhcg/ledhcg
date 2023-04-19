@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I train heavy and hard every workout. That's the only way I knew. I know it was the key to my success."
-<!-- Ronnie Coleman -->
+"Success is the progressive realization of predetermined, worthwhile, personal goals."
+<!-- Paul J. Meyer -->
 ```
 
 </div>
