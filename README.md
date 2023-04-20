@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the progressive realization of predetermined, worthwhile, personal goals."
-<!-- Paul J. Meyer -->
+"If a man has been his mother's undisputed darling he retains throughout life the triumphant feeling, the confidence in success, which not seldom brings actual success along with it."
+<!-- Sigmund Freud -->
 ```
 
 </div>
