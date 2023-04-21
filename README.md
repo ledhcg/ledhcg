@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If a man has been his mother's undisputed darling he retains throughout life the triumphant feeling, the confidence in success, which not seldom brings actual success along with it."
-<!-- Sigmund Freud -->
+"A person has to remember that the road to success is always under construction. You have to get that through your head. That it is not easy becoming successful."
+<!-- Steve Harvey -->
 ```
 
 </div>
