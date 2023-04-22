@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A person has to remember that the road to success is always under construction. You have to get that through your head. That it is not easy becoming successful."
-<!-- Steve Harvey -->
+"The most successful men in the end are those whose success is the result of steady accretion."
+<!-- Alexander Graham Bell -->
 ```
 
 </div>
