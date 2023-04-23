@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The most successful men in the end are those whose success is the result of steady accretion."
-<!-- Alexander Graham Bell -->
+"There is no magic formula to success. It is down to hard work and graft on the training ground and having a good attitude."
+<!-- Eddie Howe -->
 ```
 
 </div>
