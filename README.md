@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no magic formula to success. It is down to hard work and graft on the training ground and having a good attitude."
-<!-- Eddie Howe -->
+"Everyone must remember that when you experience success, you should never leave behind the cause of it - which is effort and dedication."
+<!-- Jeetendra -->
 ```
 
 </div>
