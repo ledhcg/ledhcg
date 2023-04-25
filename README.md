@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Everyone must remember that when you experience success, you should never leave behind the cause of it - which is effort and dedication."
-<!-- Jeetendra -->
+"Success requires first expending ten units of effort to produce one unit of results. Your momentum will then produce ten units of results with each unit of effort."
+<!-- Charles J. Givens -->
 ```
 
 </div>
