@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Think little goals and expect little achievements. Think big goals and win big success."
-<!-- David Joseph Schwartz -->
+"Your success depends mainly upon what you think of yourself and whether you believe in yourself."
+<!-- William J. H. Boetcker -->
 ```
 
 </div>
