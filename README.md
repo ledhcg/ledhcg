@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The framers of the Constitution were so clear in the federalist papers and elsewhere that they felt an independent judiciary was critical to the success of the nation."
-<!-- Sandra Day O'Connor -->
+"Be careful of success; it has a dark side."
+<!-- Robert Redford -->
 ```
 
 </div>
