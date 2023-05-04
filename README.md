@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Be careful of success; it has a dark side."
-<!-- Robert Redford -->
+"Don't wait to be successful at some future point. Have a successful relationship with the present moment and be fully present in whatever you are doing. That is success."
+<!-- Eckhart Tolle -->
 ```
 
 </div>
