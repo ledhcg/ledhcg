@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Don't wait to be successful at some future point. Have a successful relationship with the present moment and be fully present in whatever you are doing. That is success."
-<!-- Eckhart Tolle -->
+"Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another."
+<!-- Napoleon Hill -->
 ```
 
 </div>
