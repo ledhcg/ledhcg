@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another."
-<!-- Napoleon Hill -->
+"Too many people measure how successful they are by how much money they make or the people that they associate with. In my opinion, true success should be measured by how happy you are."
+<!-- Richard Branson -->
 ```
 
 </div>
