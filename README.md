@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Anybody who succeeds is helping people. The secret to success is find a need and fill it; find a hurt and heal it; find a problem and solve it."
-<!-- Robert H. Schuller -->
+"Success is the space one occupies in the newspaper. Success is one day's insolence."
+<!-- Elias Canetti -->
 ```
 
 </div>
