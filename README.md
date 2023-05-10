@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the space one occupies in the newspaper. Success is one day's insolence."
-<!-- Elias Canetti -->
+"Anybody who is an entrepreneur is a person who essentially has impaired judgment. The odds of success are zilch."
+<!-- Tom Peters -->
 ```
 
 </div>
