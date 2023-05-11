@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Anybody who is an entrepreneur is a person who essentially has impaired judgment. The odds of success are zilch."
-<!-- Tom Peters -->
+"It's not enough that I should succeed - others should fail."
+<!-- David Merrick -->
 ```
 
 </div>
