@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's not enough that I should succeed - others should fail."
-<!-- David Merrick -->
+"Never mind what others do; do better than yourself, beat your own record from day to day, and you are a success."
+<!-- William J. H. Boetcker -->
 ```
 
 </div>
