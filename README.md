@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Never mind what others do; do better than yourself, beat your own record from day to day, and you are a success."
-<!-- William J. H. Boetcker -->
+"America's young people deserve more than a mediocre future - and we now have demonstrated proof that President Trump is building a path for our success."
+<!-- Charlie Kirk -->
 ```
 
 </div>
