@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"America's young people deserve more than a mediocre future - and we now have demonstrated proof that President Trump is building a path for our success."
-<!-- Charlie Kirk -->
+"We learned about honesty and integrity - that the truth matters... that you don't take shortcuts or play by your own set of rules... and success doesn't count unless you earn it fair and square."
+<!-- Michelle Obama -->
 ```
 
 </div>
