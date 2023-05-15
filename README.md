@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We learned about honesty and integrity - that the truth matters... that you don't take shortcuts or play by your own set of rules... and success doesn't count unless you earn it fair and square."
-<!-- Michelle Obama -->
+"Collaboration is a key part of the success of any organization, executed through a clearly defined vision and mission and based on transparency and constant communication."
+<!-- Dinesh Paliwal -->
 ```
 
 </div>
