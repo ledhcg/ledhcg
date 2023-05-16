@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Collaboration is a key part of the success of any organization, executed through a clearly defined vision and mission and based on transparency and constant communication."
-<!-- Dinesh Paliwal -->
+"I wish that the Indians believed me a god, for upon the report of an enemy's valor oftentimes depends the success of a battle, and false reports have many times done as great things as true courage and resolution."
+<!-- Alexander the Great -->
 ```
 
 </div>
