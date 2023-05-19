@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"When you win, nothing hurts."
-<!-- Joe Namath -->
+"The secret to success is good leadership, and good leadership is all about making the lives of your team members or workers better."
+<!-- Tony Dungy -->
 ```
 
 </div>
