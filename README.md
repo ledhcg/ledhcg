@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The secret to success is good leadership, and good leadership is all about making the lives of your team members or workers better."
-<!-- Tony Dungy -->
+"The key to success is to keep growing in all areas of life - mental, emotional, spiritual, as well as physical."
+<!-- Julius Erving -->
 ```
 
 </div>
