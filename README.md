@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I was obliged to be industrious. Whoever is equally industrious will succeed equally well."
-<!-- Johann Sebastian Bach -->
+"No one can guarantee success in war, but only deserve it."
+<!-- Winston Churchill -->
 ```
 
 </div>
