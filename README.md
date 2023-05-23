@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"No one can guarantee success in war, but only deserve it."
-<!-- Winston Churchill -->
+"An empowered and enriched workforce is the backbone of a company's success framework."
+<!-- Ananya Birla -->
 ```
 
 </div>
