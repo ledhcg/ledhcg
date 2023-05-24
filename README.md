@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"An empowered and enriched workforce is the backbone of a company's success framework."
-<!-- Ananya Birla -->
+"The success and the failure are not my concern, but His."
+<!-- Joseph Barber Lightfoot -->
 ```
 
 </div>
