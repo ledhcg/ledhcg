@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The success and the failure are not my concern, but His."
-<!-- Joseph Barber Lightfoot -->
+"In a person's career, well, if you're process-oriented and not totally outcome-oriented, then you're more likely to be success. I often say 'pursue excellence, ignore success.' Success is a by-product of excellence."
+<!-- Deepak Chopra -->
 ```
 
 </div>
