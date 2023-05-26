@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In a person's career, well, if you're process-oriented and not totally outcome-oriented, then you're more likely to be success. I often say 'pursue excellence, ignore success.' Success is a by-product of excellence."
-<!-- Deepak Chopra -->
+"Improvement at anything is based on thousands of tiny failures, and the magnitude of your success is based on how many times you've failed at something."
+<!-- Mark Manson -->
 ```
 
 </div>
