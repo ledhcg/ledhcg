@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Improvement at anything is based on thousands of tiny failures, and the magnitude of your success is based on how many times you've failed at something."
-<!-- Mark Manson -->
+"The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will."
+<!-- Vince Lombardi -->
 ```
 
 </div>
