@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours."
-<!-- Orison Swett Marden -->
+"Frustration, although quite painful at times, is a very positive and essential part of success."
+<!-- Bo Bennett -->
 ```
 
 </div>
