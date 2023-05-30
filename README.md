@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Frustration, although quite painful at times, is a very positive and essential part of success."
-<!-- Bo Bennett -->
+"The road to success is always under construction."
+<!-- Arnold Palmer -->
 ```
 
 </div>
