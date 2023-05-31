@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The road to success is always under construction."
-<!-- Arnold Palmer -->
+"Success is the sum of details."
+<!-- Harvey S. Firestone -->
 ```
 
 </div>
