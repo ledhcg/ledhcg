@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I believe you have a responsibility to comport yourself in a manner that gives an example to others. As a young man, I prayed for success. Now I pray just to be worthy of it."
-<!-- Brendan Fraser -->
+"Success is simply a matter of luck. Ask any failure."
+<!-- Earl Wilson -->
 ```
 
 </div>
