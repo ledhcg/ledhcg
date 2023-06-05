@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The secret of success is to be in harmony with existence, to be always calm to let each wave of life wash us a little farther up the shore."
-<!-- Cyril Connolly -->
+"Steroids do not guarantee you're going to have success. I think a lot of people think that they will, but they don't."
+<!-- Tony Gwynn -->
 ```
 
 </div>
