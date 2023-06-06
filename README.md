@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Steroids do not guarantee you're going to have success. I think a lot of people think that they will, but they don't."
-<!-- Tony Gwynn -->
+"Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist."
+<!-- Mary Kay Ash -->
 ```
 
 </div>
