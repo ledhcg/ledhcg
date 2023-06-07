@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist."
-<!-- Mary Kay Ash -->
+"The success of the Rat Pack or the Clan was due to the camaraderie, the three guys who work together and kid each other and love each other."
+<!-- Sammy Davis, Jr. -->
 ```
 
 </div>
