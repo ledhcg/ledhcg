@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The success of the Rat Pack or the Clan was due to the camaraderie, the three guys who work together and kid each other and love each other."
-<!-- Sammy Davis, Jr. -->
+"Making a success in show business is like getting a big promotion on a job. You get more prestige, more authority, more money - and you also get longer hours, more work, and more responsibility. It evens out."
+<!-- Jim Nabors -->
 ```
 
 </div>
