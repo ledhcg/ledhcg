@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Every skill you acquire doubles your odds of success."
-<!-- Scott Adams -->
+"The measure of success is happiness and peace of mind."
+<!-- Bobby Davro -->
 ```
 
 </div>
