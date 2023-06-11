@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The measure of success is happiness and peace of mind."
-<!-- Bobby Davro -->
+"Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others."
+<!-- Jack Welch -->
 ```
 
 </div>
