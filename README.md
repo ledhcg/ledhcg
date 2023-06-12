@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others."
-<!-- Jack Welch -->
+"If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success."
+<!-- John D. Rockefeller -->
 ```
 
 </div>
