@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success."
-<!-- John D. Rockefeller -->
+"The secret of success is to be ready when your opportunity comes."
+<!-- Benjamin Disraeli -->
 ```
 
 </div>
