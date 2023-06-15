@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A tragic irony of life is that we so often achieve success or financial independence after the chief reason for which we sought it has passed away."
-<!-- Ellen Glasgow -->
+"The success of the young entrepreneur will be the key to India's transformation in the new millennium."
+<!-- Dhirubhai Ambani -->
 ```
 
 </div>
