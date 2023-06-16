@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The success of the young entrepreneur will be the key to India's transformation in the new millennium."
-<!-- Dhirubhai Ambani -->
+"With success comes responsibility of playing your part, to do what you can to help not only those that helped you get to where you're at, but the future of who's going to be playing a part of your business and everything you do in your entire career."
+<!-- Rob Dyrdek -->
 ```
 
 </div>
