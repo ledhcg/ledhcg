@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"With success comes responsibility of playing your part, to do what you can to help not only those that helped you get to where you're at, but the future of who's going to be playing a part of your business and everything you do in your entire career."
-<!-- Rob Dyrdek -->
+"To be successful you have to be lucky, or a little mad, or very talented, or find yourself in a rapid growth field."
+<!-- Edward de Bono -->
 ```
 
 </div>
