@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is getting what you want. Happiness is liking what you get."
-<!-- H. Jackson Brown, Jr. -->
+"The ladder of success is never crowded at the top."
+<!-- Napoleon Hill -->
 ```
 
 </div>
