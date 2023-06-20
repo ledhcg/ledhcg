@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The ladder of success is never crowded at the top."
-<!-- Napoleon Hill -->
+"Never did a government commence under auspices so favorable, nor ever was success so complete."
+<!-- James Monroe -->
 ```
 
 </div>
