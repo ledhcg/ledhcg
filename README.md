@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Never did a government commence under auspices so favorable, nor ever was success so complete."
-<!-- James Monroe -->
+"I had no dreams of such economic success. You should have fun and not be so weighed down by expectations."
+<!-- Sergey Brin -->
 ```
 
 </div>
