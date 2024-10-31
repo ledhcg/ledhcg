@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I had no dreams of such economic success. You should have fun and not be so weighed down by expectations."
-<!-- Sergey Brin -->
+"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."
+<!-- Pele -->
 ```
 
 </div>
