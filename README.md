@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I congratulate you, my brave countrymen and fellow soldiers, on the spirit and success with which you have executed this important part of our enterprise."
-<!-- James Wolfe -->
+"The secret of our success is that we never, never give up."
+<!-- Wilma Mankiller -->
 ```
 
 </div>
