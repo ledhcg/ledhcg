@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The secret of our success is that we never, never give up."
-<!-- Wilma Mankiller -->
+"In a balanced organization, working towards a common objective, there is success."
+<!-- Arthur Helps -->
 ```
 
 </div>
