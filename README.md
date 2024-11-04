@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In a balanced organization, working towards a common objective, there is success."
-<!-- Arthur Helps -->
+"I cannot give you the formula for success, but I can give you the formula for failure - which is: Try to please everybody."
+<!-- Herbert Bayard Swope -->
 ```
 
 </div>
