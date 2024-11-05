@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I cannot give you the formula for success, but I can give you the formula for failure - which is: Try to please everybody."
-<!-- Herbert Bayard Swope -->
+"There's a lot of blood, sweat, and guts between dreams and success."
+<!-- Bear Bryant -->
 ```
 
 </div>
