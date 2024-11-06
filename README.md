@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's a lot of blood, sweat, and guts between dreams and success."
-<!-- Bear Bryant -->
+"Every soldier must know, before he goes into battle, how the little battle he is to fight fits into the larger picture, and how the success of his fighting will influence the battle as a whole."
+<!-- Bernard Law Montgomery -->
 ```
 
 </div>
