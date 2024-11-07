@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Every soldier must know, before he goes into battle, how the little battle he is to fight fits into the larger picture, and how the success of his fighting will influence the battle as a whole."
-<!-- Bernard Law Montgomery -->
+"It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary."
+<!-- Winston Churchill -->
 ```
 
 </div>
