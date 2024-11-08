@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary."
-<!-- Winston Churchill -->
+"I've always believed in my own success, I've always given myself the best chance to achieve that and I think the key is to have faith."
+<!-- Wissam Ben Yedder -->
 ```
 
 </div>
