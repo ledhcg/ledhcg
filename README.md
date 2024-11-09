@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I've always believed in my own success, I've always given myself the best chance to achieve that and I think the key is to have faith."
-<!-- Wissam Ben Yedder -->
+"Success - it's what you do with what you've got."
+<!-- Woody Hayes -->
 ```
 
 </div>
