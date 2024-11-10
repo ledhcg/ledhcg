@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success - it's what you do with what you've got."
-<!-- Woody Hayes -->
+"There is no substitute for victory."
+<!-- Douglas MacArthur -->
 ```
 
 </div>
