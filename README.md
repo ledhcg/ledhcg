@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I had a lot of success from the start. I never really was tested for long periods of time. I got my first professional job while I was a senior in college. I signed with the William Morris Agency before I graduated."
-<!-- Denzel Washington -->
+"People talk about bullying, but you can be your own bully in some ways. You can be the person who is standing in the way of your success, and that was the case for me."
+<!-- Katy Perry -->
 ```
 
 </div>
