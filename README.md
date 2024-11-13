@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"People talk about bullying, but you can be your own bully in some ways. You can be the person who is standing in the way of your success, and that was the case for me."
-<!-- Katy Perry -->
+"I didn't know how to deal with success. If there was a Rock Star 101, I would have liked to take it. It might have helped me."
+<!-- Kurt Cobain -->
 ```
 
 </div>
