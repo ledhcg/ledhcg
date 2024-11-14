@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I didn't know how to deal with success. If there was a Rock Star 101, I would have liked to take it. It might have helped me."
-<!-- Kurt Cobain -->
+"Success comes to those who dedicate everything to their passion in life. To be successful, it is also very important to be humble and never let fame or money travel to your head."
+<!-- A. R. Rahman -->
 ```
 
 </div>
