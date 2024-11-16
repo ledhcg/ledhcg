@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The road to success is always under construction."
-<!-- Arnold Palmer -->
+"The distance between insanity and genius is measured only by success."
+<!-- Bruce Feirstein -->
 ```
 
 </div>
