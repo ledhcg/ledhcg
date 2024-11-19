@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The limits of our success are just the limits of our energy."
-<!-- Katya Zamolodchikova -->
+"There is no substitute for hard work. There is no such thing as an overnight success or easy money."
+<!-- Henry Sy -->
 ```
 
 </div>
