@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no substitute for hard work. There is no such thing as an overnight success or easy money."
-<!-- Henry Sy -->
+"People of mediocre ability sometimes achieve outstanding success because they don't know when to quit. Most men succeed because they are determined to."
+<!-- George Allen, Sr. -->
 ```
 
 </div>
