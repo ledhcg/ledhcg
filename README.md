@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You have to appreciate the slow grind because success is not going to happen overnight. It can happen overnight, but that's not my journey."
-<!-- Davante Adams -->
+"The only success worth one's powder was success in the line of one's idiosyncrasy... what was talent but the art of being completely whatever one happened to be?"
+<!-- Henry James -->
 ```
 
 </div>
