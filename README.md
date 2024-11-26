@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The only success worth one's powder was success in the line of one's idiosyncrasy... what was talent but the art of being completely whatever one happened to be?"
-<!-- Henry James -->
+"Nothing fails like success; nothing is so defeated as yesterday's triumphant Cause."
+<!-- Phyllis McGinley -->
 ```
 
 </div>
