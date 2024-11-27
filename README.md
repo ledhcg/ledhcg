@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Nothing fails like success; nothing is so defeated as yesterday's triumphant Cause."
-<!-- Phyllis McGinley -->
+"One fails forward toward success."
+<!-- Charles Kettering -->
 ```
 
 </div>
