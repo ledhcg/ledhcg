@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"One fails forward toward success."
-<!-- Charles Kettering -->
+"The key to success is action, and the essential in action is perseverance."
+<!-- Sun Yat-sen -->
 ```
 
 </div>
