@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the progressive realization of a worthy goal or ideal."
-<!-- Earl Nightingale -->
+"I can't imagine a person becoming a success who doesn't give this game of life everything he's got."
+<!-- Walter Cronkite -->
 ```
 
 </div>
