@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I can't imagine a person becoming a success who doesn't give this game of life everything he's got."
-<!-- Walter Cronkite -->
+"I don't dwell on success. Maybe that's one reason I'm successful."
+<!-- Calvin Klein -->
 ```
 
 </div>
