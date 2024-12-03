@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I don't dwell on success. Maybe that's one reason I'm successful."
-<!-- Calvin Klein -->
+"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success."
+<!-- James Cameron -->
 ```
 
 </div>
