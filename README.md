@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success."
-<!-- James Cameron -->
+"Success in almost any field depends more on energy and drive than it does on intelligence. This explains why we have so many stupid leaders."
+<!-- Sloan Wilson -->
 ```
 
 </div>
