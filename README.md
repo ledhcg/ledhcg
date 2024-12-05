@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success in almost any field depends more on energy and drive than it does on intelligence. This explains why we have so many stupid leaders."
-<!-- Sloan Wilson -->
+"Whatever success I may have attained is due to the fact that since I was old enough to work at all, my ambition has never deserted me."
+<!-- Anna Held -->
 ```
 
 </div>
