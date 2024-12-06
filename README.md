@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Whatever success I may have attained is due to the fact that since I was old enough to work at all, my ambition has never deserted me."
-<!-- Anna Held -->
+"If you work just for money, you'll never make it, but if you love what you're doing and you always put the customer first, success will be yours."
+<!-- Ray Kroc -->
 ```
 
 </div>
