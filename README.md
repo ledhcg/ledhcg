@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you work just for money, you'll never make it, but if you love what you're doing and you always put the customer first, success will be yours."
-<!-- Ray Kroc -->
+"Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?"
+<!-- Tony Robbins -->
 ```
 
 </div>
