@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?"
-<!-- Tony Robbins -->
+"For me, success is a state of mind. I feel like success isn't about conquering something; it's being happy with who you are."
+<!-- Britney Spears -->
 ```
 
 </div>
