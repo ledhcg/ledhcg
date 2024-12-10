@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Whosoever desires constant success must change his conduct with the times."
-<!-- Niccolo Machiavelli -->
+"Youth is not enough. And love is not enough. And success is not enough. And, if we could achieve it, enough would not be enough."
+<!-- Mignon McLaughlin -->
 ```
 
 </div>
