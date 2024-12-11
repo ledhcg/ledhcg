@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Youth is not enough. And love is not enough. And success is not enough. And, if we could achieve it, enough would not be enough."
-<!-- Mignon McLaughlin -->
+"Whether you come from a council estate or a country estate, your success will be determined by your own confidence and fortitude."
+<!-- Michelle Obama -->
 ```
 
 </div>
