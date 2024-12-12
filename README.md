@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Whether you come from a council estate or a country estate, your success will be determined by your own confidence and fortitude."
-<!-- Michelle Obama -->
+"Maintaining spirituality and humanism are the keys to success. It's a balance."
+<!-- Bikram Choudhury -->
 ```
 
 </div>
