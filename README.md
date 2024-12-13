@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Maintaining spirituality and humanism are the keys to success. It's a balance."
-<!-- Bikram Choudhury -->
+"You cannot learn anything from success, you only learn from failure."
+<!-- Jim Dale -->
 ```
 
 </div>
