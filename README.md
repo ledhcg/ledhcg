@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You cannot learn anything from success, you only learn from failure."
-<!-- Jim Dale -->
+"The grass is always greener on the other side - until you get there and see it's AstroTurf. Symbols are never reality. Someone might have amassed material success and fame, but that doesn't mean they're happy. So, don't go judging a person's life by the cover."
+<!-- Karen Salmansohn -->
 ```
 
 </div>
