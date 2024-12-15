@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The grass is always greener on the other side - until you get there and see it's AstroTurf. Symbols are never reality. Someone might have amassed material success and fame, but that doesn't mean they're happy. So, don't go judging a person's life by the cover."
-<!-- Karen Salmansohn -->
+"I will form good habits and become their slave. And how will I accomplish this difficult feat? Through these scrolls it will be done, for each scroll contains a principle which will drive a bad habit from my life and replace it with one which will bring me closer to success."
+<!-- Og Mandino -->
 ```
 
 </div>
