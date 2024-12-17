@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In most things success depends on knowing how long it takes to succeed."
-<!-- Montesquieu -->
+"Success is simple. Do what's right, the right way, at the right time."
+<!-- Arnold H. Glasow -->
 ```
 
 </div>
