@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is simple. Do what's right, the right way, at the right time."
-<!-- Arnold H. Glasow -->
+"Success is due to our stretching to the challenges of life. Failure comes when we shrink from them."
+<!-- John C. Maxwell -->
 ```
 
 </div>
