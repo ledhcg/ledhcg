@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is due to our stretching to the challenges of life. Failure comes when we shrink from them."
-<!-- John C. Maxwell -->
+"The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it."
+<!-- Elbert Hubbard -->
 ```
 
 </div>
