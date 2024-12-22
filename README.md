@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success isn't measured by money or power or social rank. Success is measured by your discipline and inner peace."
-<!-- Mike Ditka -->
+"Think of yourself as on the threshold of unparalleled success. A whole, clear, glorious life lies before you. Achieve! Achieve!"
+<!-- Andrew Carnegie -->
 ```
 
 </div>
