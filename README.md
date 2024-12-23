@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Think of yourself as on the threshold of unparalleled success. A whole, clear, glorious life lies before you. Achieve! Achieve!"
-<!-- Andrew Carnegie -->
+"Success is the sum of small efforts - repeated day in and day out."
+<!-- Robert Collier -->
 ```
 
 </div>
