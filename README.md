@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the sum of small efforts - repeated day in and day out."
-<!-- Robert Collier -->
+"Success is almost totally dependent upon drive and persistence. The extra energy required to make another effort or try another approach is the secret of winning."
+<!-- Denis Waitley -->
 ```
 
 </div>
