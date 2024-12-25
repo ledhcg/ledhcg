@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is almost totally dependent upon drive and persistence. The extra energy required to make another effort or try another approach is the secret of winning."
-<!-- Denis Waitley -->
+"The great secret of success is to go through life as a man who never gets used up."
+<!-- Albert Schweitzer -->
 ```
 
 </div>
