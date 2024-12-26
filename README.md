@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The great secret of success is to go through life as a man who never gets used up."
-<!-- Albert Schweitzer -->
+"President Trump says his highest priority is America and the American people. The fact that this idea has been met with shock is itself shocking; if America's success is not the president's goal, what is? Is it looking good in photo-ops, while debt grows, jobs dwindle, bureaucracy reigns supreme, and the American people suffer?"
+<!-- Matt Gaetz -->
 ```
 
 </div>
