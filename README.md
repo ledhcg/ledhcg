@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My Chinese name is Man Shing which means 'ten thousand success.' It's a name that's sure to set me up for failure."
-<!-- Jimmy O. Yang -->
+"Elegance is not a dispensable luxury but a factor that decides between success and failure."
+<!-- Edsger Dijkstra -->
 ```
 
 </div>
