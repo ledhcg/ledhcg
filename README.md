@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Elegance is not a dispensable luxury but a factor that decides between success and failure."
-<!-- Edsger Dijkstra -->
+"There is no substitute for victory."
+<!-- Douglas MacArthur -->
 ```
 
 </div>
