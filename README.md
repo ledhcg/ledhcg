@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no substitute for victory."
-<!-- Douglas MacArthur -->
+"Success is like a wild horse. If you do not know how to handle it, it will throw you off and look for another rider who can handle it well."
+<!-- Ajith Kumar -->
 ```
 
 </div>
