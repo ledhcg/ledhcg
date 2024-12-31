@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is like a wild horse. If you do not know how to handle it, it will throw you off and look for another rider who can handle it well."
-<!-- Ajith Kumar -->
+"Life is nothing but a bunch of experiences. There's no such thing as success or failure."
+<!-- Suki Waterhouse -->
 ```
 
 </div>
