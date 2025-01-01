@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Life is nothing but a bunch of experiences. There's no such thing as success or failure."
-<!-- Suki Waterhouse -->
+"You do not pay the price of success, you enjoy the price of success."
+<!-- Zig Ziglar -->
 ```
 
 </div>
