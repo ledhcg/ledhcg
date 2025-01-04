@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Your success is in your point of view. It's your life that you're talking about; it's your observations. That's the best lesson that I ever had."
-<!-- Billy Crystal -->
+"To get down to the quick of it, respect motivates me - not success."
+<!-- Hugh Jackman -->
 ```
 
 </div>
