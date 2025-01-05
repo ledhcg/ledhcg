@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"To get down to the quick of it, respect motivates me - not success."
-<!-- Hugh Jackman -->
+"Enjoying success requires the ability to adapt. Only by being open to change will you have a true opportunity to get the most from your talent."
+<!-- Nolan Ryan -->
 ```
 
 </div>
