@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Enjoying success requires the ability to adapt. Only by being open to change will you have a true opportunity to get the most from your talent."
-<!-- Nolan Ryan -->
+"Defeat is not the worst of failures. Not to have tried is the true failure."
+<!-- George Edward Woodberry -->
 ```
 
 </div>
