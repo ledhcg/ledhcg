@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Defeat is not the worst of failures. Not to have tried is the true failure."
-<!-- George Edward Woodberry -->
+"The secret to success is to offend the greatest number of people."
+<!-- George Bernard Shaw -->
 ```
 
 </div>
