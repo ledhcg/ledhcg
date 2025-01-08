@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The secret to success is to offend the greatest number of people."
-<!-- George Bernard Shaw -->
+"How does one measure the success of a museum?"
+<!-- J. Paul Getty -->
 ```
 
 </div>
