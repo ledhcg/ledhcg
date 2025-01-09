@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"How does one measure the success of a museum?"
-<!-- J. Paul Getty -->
+"I train heavy and hard every workout. That's the only way I knew. I know it was the key to my success."
+<!-- Ronnie Coleman -->
 ```
 
 </div>
