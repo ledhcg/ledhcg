@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I train heavy and hard every workout. That's the only way I knew. I know it was the key to my success."
-<!-- Ronnie Coleman -->
+"My success just evolved from working hard at the business at hand each day."
+<!-- Johnny Carson -->
 ```
 
 </div>
