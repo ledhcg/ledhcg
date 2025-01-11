@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My success just evolved from working hard at the business at hand each day."
-<!-- Johnny Carson -->
+"The secret to success is to own nothing, but control everything."
+<!-- Nelson Rockefeller -->
 ```
 
 </div>
