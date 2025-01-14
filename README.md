@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The only place success comes before work is in the dictionary."
-<!-- Vince Lombardi -->
+"I suppose your security is your success and your key to success is your fine palate."
+<!-- Gordon Ramsay -->
 ```
 
 </div>
