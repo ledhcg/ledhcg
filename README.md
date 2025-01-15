@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I suppose your security is your success and your key to success is your fine palate."
-<!-- Gordon Ramsay -->
+"We fall forward to succeed."
+<!-- Mary Kay Ash -->
 ```
 
 </div>
