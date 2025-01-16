@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We fall forward to succeed."
-<!-- Mary Kay Ash -->
+"A true friend is one who overlooks your failures and tolerates your success!"
+<!-- Doug Larson -->
 ```
 
 </div>
