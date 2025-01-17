@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A true friend is one who overlooks your failures and tolerates your success!"
-<!-- Doug Larson -->
+"Prospering just doesn't have to do with money."
+<!-- Joel Osteen -->
 ```
 
 </div>
