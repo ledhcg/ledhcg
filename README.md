@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Look at my success. I didn't achieve it overnight. It has been the product of many years' struggle, and every year, my times have shown gradual improvement."
-<!-- Mo Farah -->
+"The secret of our success is that we never, never give up."
+<!-- Wilma Mankiller -->
 ```
 
 </div>
