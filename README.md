@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Real success is not on the stage, but off the stage as a human being, and how you get along with your fellow man."
-<!-- Sammy Davis, Jr. -->
+"There are people out there who hate me and who say I'm arrogant, vain, and whatever. That's all part of my success. I am made to be the best."
+<!-- Cristiano Ronaldo -->
 ```
 
 </div>
