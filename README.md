@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There are people out there who hate me and who say I'm arrogant, vain, and whatever. That's all part of my success. I am made to be the best."
-<!-- Cristiano Ronaldo -->
+"It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him."
+<!-- Max Planck -->
 ```
 
 </div>
