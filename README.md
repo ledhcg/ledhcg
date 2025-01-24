@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"He was a self-made man who owed his lack of success to nobody."
-<!-- Joseph Heller -->
+"Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come."
+<!-- Dwayne Johnson -->
 ```
 
 </div>
