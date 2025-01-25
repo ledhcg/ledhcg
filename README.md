@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come."
-<!-- Dwayne Johnson -->
+"Every failure is a step to success."
+<!-- William Whewell -->
 ```
 
 </div>
