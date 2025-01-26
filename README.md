@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Every failure is a step to success."
-<!-- William Whewell -->
+"By shifting your focus to the princess and treating your life's challenges like video games, you can trick your brain and actually learn more and see more success."
+<!-- Mark Rober -->
 ```
 
 </div>
