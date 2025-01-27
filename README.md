@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"By shifting your focus to the princess and treating your life's challenges like video games, you can trick your brain and actually learn more and see more success."
-<!-- Mark Rober -->
+"Continuity is what makes success, but it is all about getting over the humps on the road to that; that's what football is all about."
+<!-- Graeme Souness -->
 ```
 
 </div>
