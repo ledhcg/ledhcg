@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Continuity is what makes success, but it is all about getting over the humps on the road to that; that's what football is all about."
-<!-- Graeme Souness -->
+"Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility."
+<!-- Saint Augustine -->
 ```
 
 </div>
