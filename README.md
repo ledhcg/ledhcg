@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Whatever you do to gain success, you have to hang in there and hope good things happen. Always think positive."
-<!-- Don Rickles -->
+"Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?"
+<!-- Tony Robbins -->
 ```
 
 </div>
