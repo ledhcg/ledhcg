@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You do not pay the price of success, you enjoy the price of success."
-<!-- Zig Ziglar -->
+"Border security is imperative for national security, public safety and economic success of communities."
+<!-- Young Kim -->
 ```
 
 </div>
