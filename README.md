@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Border security is imperative for national security, public safety and economic success of communities."
-<!-- Young Kim -->
+"It takes a planet to explore the universe, and we invite the global community to be part of Starlab's success."
+<!-- Dylan Taylor -->
 ```
 
 </div>
