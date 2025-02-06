@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is doing ordinary things extraordinarily well."
-<!-- Jim Rohn -->
+"But I like not these great success of yours; for I know how jealous are the gods."
+<!-- Herodotus -->
 ```
 
 </div>
