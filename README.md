@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"But I like not these great success of yours; for I know how jealous are the gods."
-<!-- Herodotus -->
+"Success is never final, failure is never fatal. It's courage that counts."
+<!-- John Wooden -->
 ```
 
 </div>
