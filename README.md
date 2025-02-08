@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is never final, failure is never fatal. It's courage that counts."
-<!-- John Wooden -->
+"If you want to increase your success rate, double your failure rate."
+<!-- Thomas J. Watson -->
 ```
 
 </div>
