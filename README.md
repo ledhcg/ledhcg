@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you want to increase your success rate, double your failure rate."
-<!-- Thomas J. Watson -->
+"Nothing fails like success."
+<!-- Lincoln Steffens -->
 ```
 
 </div>
