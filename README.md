@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Nothing fails like success."
-<!-- Lincoln Steffens -->
+"Success is the one unpardonable sin against our fellows."
+<!-- Ambrose Bierce -->
 ```
 
 </div>
