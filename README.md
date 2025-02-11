@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the one unpardonable sin against our fellows."
-<!-- Ambrose Bierce -->
+"Success is a science; if you have the conditions, you get the result."
+<!-- Oscar Wilde -->
 ```
 
 </div>
