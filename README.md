@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a science; if you have the conditions, you get the result."
-<!-- Oscar Wilde -->
+"Success depends almost entirely on how effectively you learn to manage the game's two ultimate adversaries: the course and yourself."
+<!-- Jack Nicklaus -->
 ```
 
 </div>
