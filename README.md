@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success depends almost entirely on how effectively you learn to manage the game's two ultimate adversaries: the course and yourself."
-<!-- Jack Nicklaus -->
+"Nothing comes easy. Success doesn't just drop on your lap. You have to go out and fight for it every day."
+<!-- Dana White -->
 ```
 
 </div>
