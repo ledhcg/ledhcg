@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Nothing comes easy. Success doesn't just drop on your lap. You have to go out and fight for it every day."
-<!-- Dana White -->
+"The level of our success is limited only by our imagination and no act of kindness, however small, is ever wasted."
+<!-- Aesop -->
 ```
 
 </div>
