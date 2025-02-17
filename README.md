@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"When it comes to success, there are no shortcuts."
-<!-- Bo Bennett -->
+"Overcoming fear is the first step to success for entrepreneurs. The winners all exemplify that, and the hard work and commitment they have shown underlines what is needed to set up a business."
+<!-- Richard Branson -->
 ```
 
 </div>
