@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Frustration, although quite painful at times, is a very positive and essential part of success."
-<!-- Bo Bennett -->
+"Coming together is a beginning; keeping together is progress; working together is success."
+<!-- Edward Everett Hale -->
 ```
 
 </div>
