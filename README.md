@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Coming together is a beginning; keeping together is progress; working together is success."
-<!-- Edward Everett Hale -->
+"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
+<!-- Colin Powell -->
 ```
 
 </div>
