@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
-<!-- Colin Powell -->
+"What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose."
+<!-- Margaret Thatcher -->
 ```
 
 </div>
