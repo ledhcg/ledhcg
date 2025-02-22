@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose."
-<!-- Margaret Thatcher -->
+"Patience is a key to success. I rely on that."
+<!-- Cordarrelle Patterson -->
 ```
 
 </div>
