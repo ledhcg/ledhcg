@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My biggest success is getting over the things that have tried to destroy and take me out of this life. Those are my biggest successes. It has nothing to do with work."
-<!-- Tyler Perry -->
+"There is a huge difference between failing and failure. Failing is trying something that you learn doesn't work. Failure is throwing in the towel and giving up. True success comes from failing repeatedly and as quickly as possible, before your cash or your willpower runs out."
+<!-- Jay Samit -->
 ```
 
 </div>
