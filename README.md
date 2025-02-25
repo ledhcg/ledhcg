@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is a huge difference between failing and failure. Failing is trying something that you learn doesn't work. Failure is throwing in the towel and giving up. True success comes from failing repeatedly and as quickly as possible, before your cash or your willpower runs out."
-<!-- Jay Samit -->
+"Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around."
+<!-- A. P. J. Abdul Kalam -->
 ```
 
 </div>
