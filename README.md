@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Applause waits on success."
-<!-- Benjamin Franklin -->
+"Success is the result of perfection, hard work, learning from failure, loyalty, and persistence."
+<!-- Colin Powell -->
 ```
 
 </div>
