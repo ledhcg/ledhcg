@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is always dangerous, and we need to be alert and avoid becoming the victims of our own success. Will we influence the world for Christ, or will the world influence us?"
-<!-- Billy Graham -->
+"Success requires first expending ten units of effort to produce one unit of results. Your momentum will then produce ten units of results with each unit of effort."
+<!-- Charles J. Givens -->
 ```
 
 </div>
