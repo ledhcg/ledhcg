@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"President Trump says his highest priority is America and the American people. The fact that this idea has been met with shock is itself shocking; if America's success is not the president's goal, what is? Is it looking good in photo-ops, while debt grows, jobs dwindle, bureaucracy reigns supreme, and the American people suffer?"
-<!-- Matt Gaetz -->
+"The historical basis for the gap between the black middle class and underclass shows that ending discrimination, by itself, would not eradicate black poverty and dysfunction. We also need intervention to promulgate a middle-class ethic of success among the poor, while expanding opportunities for economic betterment."
+<!-- Henry Louis Gates -->
 ```
 
 </div>
