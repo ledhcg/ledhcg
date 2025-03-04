@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The historical basis for the gap between the black middle class and underclass shows that ending discrimination, by itself, would not eradicate black poverty and dysfunction. We also need intervention to promulgate a middle-class ethic of success among the poor, while expanding opportunities for economic betterment."
-<!-- Henry Louis Gates -->
+"Apart from being motivation for themselves, I think big givers should also talk about their philanthropy so that their work and their success stories prove inspirational enough for many others to follow."
+<!-- Rakesh Jhunjhunwala -->
 ```
 
 </div>
