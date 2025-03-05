@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Apart from being motivation for themselves, I think big givers should also talk about their philanthropy so that their work and their success stories prove inspirational enough for many others to follow."
-<!-- Rakesh Jhunjhunwala -->
+"Enjoy failure and learn from it. You can never learn from success."
+<!-- James Dyson -->
 ```
 
 </div>
