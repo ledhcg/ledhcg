@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Enjoy failure and learn from it. You can never learn from success."
-<!-- James Dyson -->
+"Success has a simple formula: do your best, and people may like it."
+<!-- Sam Ewing -->
 ```
 
 </div>
