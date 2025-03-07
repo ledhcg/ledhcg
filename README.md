@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success has a simple formula: do your best, and people may like it."
-<!-- Sam Ewing -->
+"That man is a success who has lived well, laughed often and loved much."
+<!-- Robert Louis Stevenson -->
 ```
 
 </div>
