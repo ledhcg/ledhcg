@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"That man is a success who has lived well, laughed often and loved much."
-<!-- Robert Louis Stevenson -->
+"Success is neither magical nor mysterious. Success is the natural consequence of consistently applying the basic fundamentals."
+<!-- Jim Rohn -->
 ```
 
 </div>
