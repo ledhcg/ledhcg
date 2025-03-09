@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is neither magical nor mysterious. Success is the natural consequence of consistently applying the basic fundamentals."
-<!-- Jim Rohn -->
+"All of us are born for a reason, but all of us don't discover why. Success in life has nothing to do with what you gain in life or accomplish for yourself. It's what you do for others."
+<!-- Danny Thomas -->
 ```
 
 </div>
