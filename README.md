@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I believe that one key to success is to accept truth, no matter how it's spoken."
-<!-- Robert Kiyosaki -->
+"Run toward the hardest problems. This approach has helped me to learn a tremendous amount from both success and failure."
+<!-- Lisa Su -->
 ```
 
 </div>
