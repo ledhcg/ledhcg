@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Run toward the hardest problems. This approach has helped me to learn a tremendous amount from both success and failure."
-<!-- Lisa Su -->
+"Humor has bailed me out of more tight situations than I can think of. If you go with your instincts and keep your humor, creativity follows. With luck, success comes, too."
+<!-- Jimmy Buffett -->
 ```
 
 </div>
