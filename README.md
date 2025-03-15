@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a public affair. Failure is a private funeral."
-<!-- Rosalind Russell -->
+"To design the future effectively, you must first let go of your past."
+<!-- Charles J. Givens -->
 ```
 
 </div>
