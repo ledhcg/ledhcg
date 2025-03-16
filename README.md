@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"To design the future effectively, you must first let go of your past."
-<!-- Charles J. Givens -->
+"Sudden success in golf is like the sudden acquisition of wealth. It is apt to unsettle and deteriorate the character."
+<!-- P. G. Wodehouse -->
 ```
 
 </div>
