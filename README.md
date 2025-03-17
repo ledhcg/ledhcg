@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Sudden success in golf is like the sudden acquisition of wealth. It is apt to unsettle and deteriorate the character."
-<!-- P. G. Wodehouse -->
+"Success isn't about the end result, it's about what you learn along the way."
+<!-- Vera Wang -->
 ```
 
 </div>
