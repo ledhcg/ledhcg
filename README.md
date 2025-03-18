@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success isn't about the end result, it's about what you learn along the way."
-<!-- Vera Wang -->
+"I am living on the razor's edge between success and failure, adulation and humiliation - between justifying my existence and revealing my unworthiness to be alive."
+<!-- Scott Stossel -->
 ```
 
 </div>
