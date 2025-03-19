@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I am living on the razor's edge between success and failure, adulation and humiliation - between justifying my existence and revealing my unworthiness to be alive."
-<!-- Scott Stossel -->
+"The grass is always greener on the other side - until you get there and see it's AstroTurf. Symbols are never reality. Someone might have amassed material success and fame, but that doesn't mean they're happy. So, don't go judging a person's life by the cover."
+<!-- Karen Salmansohn -->
 ```
 
 </div>
