@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no success without hardship."
-<!-- Sophocles -->
+"Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable."
+<!-- John Wooden -->
 ```
 
 </div>
