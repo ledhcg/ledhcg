@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable."
-<!-- John Wooden -->
+"Success doesn't demand a price. Every step forward pays a dividend."
+<!-- David Joseph Schwartz -->
 ```
 
 </div>
