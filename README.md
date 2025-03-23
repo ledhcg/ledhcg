@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success doesn't demand a price. Every step forward pays a dividend."
-<!-- David Joseph Schwartz -->
+"Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks."
+<!-- Stephen Hawking -->
 ```
 
 </div>
