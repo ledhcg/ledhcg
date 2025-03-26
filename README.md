@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success breeds complacency. Complacency breeds failure. Only the paranoid survive."
-<!-- Andy Grove -->
+"The starting point of all achievement is desire."
+<!-- Napoleon Hill -->
 ```
 
 </div>
