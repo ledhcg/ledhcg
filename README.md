@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The starting point of all achievement is desire."
-<!-- Napoleon Hill -->
+"All you need in this life is ignorance and confidence, and then success is sure."
+<!-- Mark Twain -->
 ```
 
 </div>
