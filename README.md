@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"All you need in this life is ignorance and confidence, and then success is sure."
-<!-- Mark Twain -->
+"Success is not to be pursued; it is to be attracted by the person you become."
+<!-- Jim Rohn -->
 ```
 
 </div>
