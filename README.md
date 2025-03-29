@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is not to be pursued; it is to be attracted by the person you become."
-<!-- Jim Rohn -->
+"The starting point of all achievement is desire."
+<!-- Napoleon Hill -->
 ```
 
 </div>
