@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The starting point of all achievement is desire."
-<!-- Napoleon Hill -->
+"Desire is the key to motivation, but it's determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek."
+<!-- Mario Andretti -->
 ```
 
 </div>
