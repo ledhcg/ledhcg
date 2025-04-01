@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The most important thing is being passionate about what you're doing and always give it your all. That is the key to success."
-<!-- Charlie White -->
+"Success comes from knowing that you did your best to become the best that you are capable of becoming."
+<!-- John Wooden -->
 ```
 
 </div>
