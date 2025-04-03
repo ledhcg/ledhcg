@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is that old ABC - ability, breaks, and courage."
-<!-- Charles Luckman -->
+"People who look at Apple's success and think we look at it as, 'Okay, great, we're done,' don't appreciate what's really going on here."
+<!-- Craig Federighi -->
 ```
 
 </div>
