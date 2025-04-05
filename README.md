@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I've usually used the phrase 'stay the course' as one of the great rules of investment success."
-<!-- John C. Bogle -->
+"I believe any success in life is made by going into an area with a blind, furious optimism."
+<!-- Sylvester Stallone -->
 ```
 
 </div>
