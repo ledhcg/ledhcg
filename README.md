@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I believe any success in life is made by going into an area with a blind, furious optimism."
-<!-- Sylvester Stallone -->
+"Success is simply a matter of luck. Ask any failure."
+<!-- Earl Wilson -->
 ```
 
 </div>
