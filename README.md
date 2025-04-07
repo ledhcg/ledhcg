@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is simply a matter of luck. Ask any failure."
-<!-- Earl Wilson -->
+"The pressure of success is suffocating."
+<!-- Sudeep -->
 ```
 
 </div>
