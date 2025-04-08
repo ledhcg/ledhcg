@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The pressure of success is suffocating."
-<!-- Sudeep -->
+"I don't dwell on success. Maybe that's one reason I'm successful."
+<!-- Calvin Klein -->
 ```
 
 </div>
