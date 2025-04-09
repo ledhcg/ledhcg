@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I don't dwell on success. Maybe that's one reason I'm successful."
-<!-- Calvin Klein -->
+"It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him."
+<!-- Max Planck -->
 ```
 
 </div>
