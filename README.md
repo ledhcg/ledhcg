@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him."
-<!-- Max Planck -->
+"I do believe that my whole success goes back to that time I was arrested as a wayward boy at the age of thirteen. Because then I had to quit running around and began to learn something. Most of all, I began to learn music."
+<!-- Louis Armstrong -->
 ```
 
 </div>
