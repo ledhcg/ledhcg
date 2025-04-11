@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I do believe that my whole success goes back to that time I was arrested as a wayward boy at the age of thirteen. Because then I had to quit running around and began to learn something. Most of all, I began to learn music."
-<!-- Louis Armstrong -->
+"Humor has bailed me out of more tight situations than I can think of. If you go with your instincts and keep your humor, creativity follows. With luck, success comes, too."
+<!-- Jimmy Buffett -->
 ```
 
 </div>
