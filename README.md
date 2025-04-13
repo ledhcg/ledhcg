@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you wish to be a success in the world, promise everything, deliver nothing."
-<!-- Napoleon Bonaparte -->
+"You can do anything if you set your mind to it. Look out for kids, help them dream and be inspired. We teach calculus in schools, but I believe the most important formula is courage plus dreams equals success."
+<!-- Marlee Matlin -->
 ```
 
 </div>
