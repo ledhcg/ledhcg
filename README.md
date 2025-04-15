@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I don't rely on feng shui. I believe hard work brings us good luck and success."
-<!-- John Gokongwei -->
+"There is no coincidence that stability brings success, and success brings stability."
+<!-- Robert Green -->
 ```
 
 </div>
