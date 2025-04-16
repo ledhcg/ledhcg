@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no coincidence that stability brings success, and success brings stability."
-<!-- Robert Green -->
+"The only thing that ever sat its way to success was a hen."
+<!-- Sarah Brown -->
 ```
 
 </div>
