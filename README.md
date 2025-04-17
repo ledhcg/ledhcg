@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The only thing that ever sat its way to success was a hen."
-<!-- Sarah Brown -->
+"How many a man has thrown up his hands at a time when a little more effort, a little more patience would have achieved success."
+<!-- Elbert Hubbard -->
 ```
 
 </div>
