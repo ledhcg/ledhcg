@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's no explanation for success. Success just comes out of life."
-<!-- Meat Loaf -->
+"Whenever an individual or a business decides that success has been attained, progress stops."
+<!-- Thomas J. Watson -->
 ```
 
 </div>
