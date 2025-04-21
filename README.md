@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Whenever an individual or a business decides that success has been attained, progress stops."
-<!-- Thomas J. Watson -->
+"You can do anything if you set your mind to it. Look out for kids, help them dream and be inspired. We teach calculus in schools, but I believe the most important formula is courage plus dreams equals success."
+<!-- Marlee Matlin -->
 ```
 
 </div>
