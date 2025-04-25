@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"With the success of 'Yevade Subramanyam' and 'Bhale Magadivoy,' the audience's faith in me has increased, which is a good sign."
-<!-- Nani -->
+"There could be no honor in a sure success, but much might be wrested from a sure defeat."
+<!-- Ann Landers -->
 ```
 
 </div>
