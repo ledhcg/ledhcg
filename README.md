@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There could be no honor in a sure success, but much might be wrested from a sure defeat."
-<!-- Ann Landers -->
+"It is the hopeful, buoyant, cheerful attitude of mind that wins. Optimism is a success builder; pessimism an achievement killer."
+<!-- Orison Swett Marden -->
 ```
 
 </div>
