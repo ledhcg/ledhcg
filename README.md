@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We know from research that growth is actually contagious, so if you want to reach your goals, you've got to get around people that are going in the same direction you want to be going, and you will catch the success."
-<!-- Henry Cloud -->
+"Belief in oneself is one of the most important bricks in building any successful venture."
+<!-- Lydia M. Child -->
 ```
 
 </div>
