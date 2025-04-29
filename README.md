@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Belief in oneself is one of the most important bricks in building any successful venture."
-<!-- Lydia M. Child -->
+"Success is often achieved by those who don't know that failure is inevitable."
+<!-- Coco Chanel -->
 ```
 
 </div>
