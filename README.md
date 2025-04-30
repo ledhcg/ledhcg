@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is often achieved by those who don't know that failure is inevitable."
-<!-- Coco Chanel -->
+"I had a lot of success from the start. I never really was tested for long periods of time. I got my first professional job while I was a senior in college. I signed with the William Morris Agency before I graduated."
+<!-- Denzel Washington -->
 ```
 
 </div>
