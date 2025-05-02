@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The most absurd and reckless aspirations have sometimes led to extraordinary success."
-<!-- Luc de Clapiers -->
+"Success is different for everyone; everybody defines it in their own way, and that's part of what we do in 'Close Up', finding what it was each person wanted to achieve and what their willingness to sacrifice for that was."
+<!-- William Shatner -->
 ```
 
 </div>
