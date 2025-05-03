@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is different for everyone; everybody defines it in their own way, and that's part of what we do in 'Close Up', finding what it was each person wanted to achieve and what their willingness to sacrifice for that was."
-<!-- William Shatner -->
+"God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it."
+<!-- Steve Harvey -->
 ```
 
 </div>
