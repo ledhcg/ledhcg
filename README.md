@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it."
-<!-- Steve Harvey -->
+"There is only one success - to be able to spend your life in your own way."
+<!-- Christopher Morley -->
 ```
 
 </div>
