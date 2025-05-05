@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is only one success - to be able to spend your life in your own way."
-<!-- Christopher Morley -->
+"Success isn't permanent and failure isn't fatal."
+<!-- Mike Ditka -->
 ```
 
 </div>
