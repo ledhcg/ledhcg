@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success isn't permanent and failure isn't fatal."
-<!-- Mike Ditka -->
+"No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed."
+<!-- Godfrey Winn -->
 ```
 
 </div>
