@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed."
-<!-- Godfrey Winn -->
+"I give credit of my success to my parents. My father was a poet philosopher."
+<!-- Manoj Kumar -->
 ```
 
 </div>
