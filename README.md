@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My story of success and failure is not just about music and being famous. It's about living and loving and trying to find purpose in this crazy world."
-<!-- Wynonna Judd -->
+"There is no force like success, and that is why the individual makes all effort to surround himself throughout life with the evidence of it; as of the individual, so should it be of the nation."
+<!-- Marcus Garvey -->
 ```
 
 </div>
