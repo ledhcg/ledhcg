@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no force like success, and that is why the individual makes all effort to surround himself throughout life with the evidence of it; as of the individual, so should it be of the nation."
-<!-- Marcus Garvey -->
+"The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime."
+<!-- Babe Ruth -->
 ```
 
 </div>
