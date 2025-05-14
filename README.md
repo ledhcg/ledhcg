@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"No one can guarantee success in war, but only deserve it."
-<!-- Winston Churchill -->
+"The supreme quality for leadership is unquestionably integrity. Without it, no real success is possible, no matter whether it is on a section gang, a football field, in an army, or in an office."
+<!-- Dwight D. Eisenhower -->
 ```
 
 </div>
