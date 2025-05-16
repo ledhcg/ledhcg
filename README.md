@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success in the majority of circumstances depends on knowing how long it takes to succeed."
-<!-- Montesquieu -->
+"Man needs his difficulties because they are necessary to enjoy success."
+<!-- A. P. J. Abdul Kalam -->
 ```
 
 </div>
