@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Man needs his difficulties because they are necessary to enjoy success."
-<!-- A. P. J. Abdul Kalam -->
+"As kids we're not taught how to deal with success; we're taught how to deal with failure. If at first you don't succeed, try, try again. If at first you succeed, then what?"
+<!-- Charlie Sheen -->
 ```
 
 </div>
