@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"As kids we're not taught how to deal with success; we're taught how to deal with failure. If at first you don't succeed, try, try again. If at first you succeed, then what?"
-<!-- Charlie Sheen -->
+"Unexpectedly, 'Death's End' turned into a major success. It made a much bigger impact than the first two books in the series and became a bestseller."
+<!-- Liu Cixin -->
 ```
 
 </div>
