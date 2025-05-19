@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Unexpectedly, 'Death's End' turned into a major success. It made a much bigger impact than the first two books in the series and became a bestseller."
-<!-- Liu Cixin -->
+"The fact that there has to be a man behind my success when I genuinely have worked so hard is frustrating."
+<!-- Clairo -->
 ```
 
 </div>
