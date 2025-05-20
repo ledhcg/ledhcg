@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The fact that there has to be a man behind my success when I genuinely have worked so hard is frustrating."
-<!-- Clairo -->
+"God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it."
+<!-- Steve Harvey -->
 ```
 
 </div>
