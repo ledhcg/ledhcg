@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you aren't learning, you are regressing, because more growth comes from failure than from success."
-<!-- Shahid Khan -->
+"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."
+<!-- John D. Rockefeller -->
 ```
 
 </div>
