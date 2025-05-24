@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I think success has no rules, but you can learn a great deal from failure."
-<!-- Jean Kerr -->
+"One fails forward toward success."
+<!-- Charles Kettering -->
 ```
 
 </div>
