@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"One fails forward toward success."
-<!-- Charles Kettering -->
+"The most successful men in the end are those whose success is the result of steady accretion."
+<!-- Alexander Graham Bell -->
 ```
 
 </div>
