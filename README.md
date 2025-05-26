@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The most successful men in the end are those whose success is the result of steady accretion."
-<!-- Alexander Graham Bell -->
+"The best success, for me, is not one trophy. It's not harmony. It's when players improve and grow."
+<!-- Unai Emery -->
 ```
 
 </div>
