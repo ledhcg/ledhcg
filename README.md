@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The best success, for me, is not one trophy. It's not harmony. It's when players improve and grow."
-<!-- Unai Emery -->
+"I've learned that mistakes can often be as good a teacher as success."
+<!-- Jack Welch -->
 ```
 
 </div>
