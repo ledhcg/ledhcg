@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I've learned that mistakes can often be as good a teacher as success."
-<!-- Jack Welch -->
+"The most important single ingredient in the formula of success is knowing how to get along with people."
+<!-- Theodore Roosevelt -->
 ```
 
 </div>
