@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The most important single ingredient in the formula of success is knowing how to get along with people."
-<!-- Theodore Roosevelt -->
+"The culture of a workplace - an organization's values, norms and practices - has a huge impact on our happiness and success."
+<!-- Adam Grant -->
 ```
 
 </div>
