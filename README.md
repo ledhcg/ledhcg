@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Be passionate and bold. Always keep learning. You stop doing useful things if you don't learn. So the last part to me is the key, especially if you have had some initial success. It becomes even more critical that you have the learning 'bit' always switched on."
-<!-- Satya Nadella -->
+"I started running because my neighbour, Patrick Sang, was an athlete and I wanted to be just like him. Patrick came from the same village as I do and my mother used to be his teacher. I was so inspired by his success."
+<!-- Eliud Kipchoge -->
 ```
 
 </div>
