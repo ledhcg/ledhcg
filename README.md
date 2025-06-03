@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You cannot climb the ladder of success dressed in the costume of failure."
-<!-- Zig Ziglar -->
+"The greatest trap in our life is not success, popularity or power, but self-rejection."
+<!-- Henri Nouwen -->
 ```
 
 </div>
