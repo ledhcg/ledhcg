@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The greatest trap in our life is not success, popularity or power, but self-rejection."
-<!-- Henri Nouwen -->
+"Happiness must happen, and the same holds for success: you have to let it happen by not caring about it."
+<!-- Viktor E. Frankl -->
 ```
 
 </div>
