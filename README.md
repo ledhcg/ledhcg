@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Happiness must happen, and the same holds for success: you have to let it happen by not caring about it."
-<!-- Viktor E. Frankl -->
+"It's the steady, quiet, plodding ones who win in the lifelong race."
+<!-- Robert W. Service -->
 ```
 
 </div>
