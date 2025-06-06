@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's the steady, quiet, plodding ones who win in the lifelong race."
-<!-- Robert W. Service -->
+"Too many people measure how successful they are by how much money they make or the people that they associate with. In my opinion, true success should be measured by how happy you are."
+<!-- Richard Branson -->
 ```
 
 </div>
