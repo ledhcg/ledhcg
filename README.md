@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Too many people measure how successful they are by how much money they make or the people that they associate with. In my opinion, true success should be measured by how happy you are."
-<!-- Richard Branson -->
+"I think baking is very rewarding, and if you follow a good recipe, you will get success."
+<!-- Mary Berry -->
 ```
 
 </div>
