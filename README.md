@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I think baking is very rewarding, and if you follow a good recipe, you will get success."
-<!-- Mary Berry -->
+"Success is the sum of details."
+<!-- Harvey S. Firestone -->
 ```
 
 </div>
