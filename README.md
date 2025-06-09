@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the sum of details."
-<!-- Harvey S. Firestone -->
+"Invincibility lies in the defence; the possibility of victory in the attack."
+<!-- Sun Tzu -->
 ```
 
 </div>
