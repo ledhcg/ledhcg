@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Invincibility lies in the defence; the possibility of victory in the attack."
-<!-- Sun Tzu -->
+"There will always be obstacles and challenges that stand in your way. Building mental strength will help you develop resilience to those potential hazards so you can continue on your journey to success."
+<!-- Amy Morin -->
 ```
 
 </div>
