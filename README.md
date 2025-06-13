@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success."
-<!-- Dale Carnegie -->
+"No man ever achieved worth-while success who did not, at one time or other, find himself with at least one foot hanging well over the brink of failure."
+<!-- Napoleon Hill -->
 ```
 
 </div>
