@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"No man ever achieved worth-while success who did not, at one time or other, find himself with at least one foot hanging well over the brink of failure."
-<!-- Napoleon Hill -->
+"If you have a success you have it for the wrong reasons. If you become popular it is always because of the worst aspects of your work."
+<!-- Ernest Hemingway -->
 ```
 
 </div>
