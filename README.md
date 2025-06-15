@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you have a success you have it for the wrong reasons. If you become popular it is always because of the worst aspects of your work."
-<!-- Ernest Hemingway -->
+"Success is measured by your discipline and inner peace."
+<!-- Mike Ditka -->
 ```
 
 </div>
