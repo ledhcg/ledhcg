@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is measured by your discipline and inner peace."
-<!-- Mike Ditka -->
+"I want success for so many people. I couldn't give a crap about myself."
+<!-- Emma Hayes -->
 ```
 
 </div>
