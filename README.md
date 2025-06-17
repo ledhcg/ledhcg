@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I want success for so many people. I couldn't give a crap about myself."
-<!-- Emma Hayes -->
+"Success is not measured by what you accomplish, but by the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds."
+<!-- Orison Swett Marden -->
 ```
 
 </div>
