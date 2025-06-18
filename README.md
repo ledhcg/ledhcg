@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is not measured by what you accomplish, but by the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds."
-<!-- Orison Swett Marden -->
+"Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming."
+<!-- John Wooden -->
 ```
 
 </div>
