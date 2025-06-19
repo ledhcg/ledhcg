@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming."
-<!-- John Wooden -->
+"A true friend is one who overlooks your failures and tolerates your success!"
+<!-- Doug Larson -->
 ```
 
 </div>
