@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Patience, persistence and perspiration make an unbeatable combination for success."
-<!-- Napoleon Hill -->
+"Excuses destroy success every time."
+<!-- Jon Taffer -->
 ```
 
 </div>
