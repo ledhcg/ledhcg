@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Excuses destroy success every time."
-<!-- Jon Taffer -->
+"Sometimes success can bring complacency."
+<!-- Brad Parscale -->
 ```
 
 </div>
