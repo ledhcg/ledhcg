@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Sometimes success can bring complacency."
-<!-- Brad Parscale -->
+"Baseball is a simple game. If you have good players and if you keep them in the right frame of mind then the manager is a success."
+<!-- Sparky Anderson -->
 ```
 
 </div>
