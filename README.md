@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Baseball is a simple game. If you have good players and if you keep them in the right frame of mind then the manager is a success."
-<!-- Sparky Anderson -->
+"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."
+<!-- David Brinkley -->
 ```
 
 </div>
