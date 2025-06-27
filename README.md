@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."
-<!-- David Brinkley -->
+"The worst part of success is to try finding someone who is happy for you."
+<!-- Bette Midler -->
 ```
 
 </div>
