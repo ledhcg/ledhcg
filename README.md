@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The worst part of success is to try finding someone who is happy for you."
-<!-- Bette Midler -->
+"Hope... is the companion of power, and the mother of success; for who so hopes has within him the gift of miracles."
+<!-- Samuel Smiles -->
 ```
 
 </div>
