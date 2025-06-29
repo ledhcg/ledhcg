@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Hope... is the companion of power, and the mother of success; for who so hopes has within him the gift of miracles."
-<!-- Samuel Smiles -->
+"Success is like death. The more successful you become, the higher the houses in the hills get and the higher the fences get."
+<!-- Kevin Spacey -->
 ```
 
 </div>
