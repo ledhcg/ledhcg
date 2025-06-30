@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is like death. The more successful you become, the higher the houses in the hills get and the higher the fences get."
-<!-- Kevin Spacey -->
+"The level of our success is limited only by our imagination and no act of kindness, however small, is ever wasted."
+<!-- Aesop -->
 ```
 
 </div>
