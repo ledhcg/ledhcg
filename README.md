@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The level of our success is limited only by our imagination and no act of kindness, however small, is ever wasted."
-<!-- Aesop -->
+"Success and failure are both part of life. Both are not permanent."
+<!-- Shah Rukh Khan -->
 ```
 
 </div>
