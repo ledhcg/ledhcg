@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success and failure are both part of life. Both are not permanent."
-<!-- Shah Rukh Khan -->
+"Success is always dangerous, and we need to be alert and avoid becoming the victims of our own success. Will we influence the world for Christ, or will the world influence us?"
+<!-- Billy Graham -->
 ```
 
 </div>
