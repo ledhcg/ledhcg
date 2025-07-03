@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is always dangerous, and we need to be alert and avoid becoming the victims of our own success. Will we influence the world for Christ, or will the world influence us?"
-<!-- Billy Graham -->
+"Think of yourself as on the threshold of unparalleled success. A whole, clear, glorious life lies before you. Achieve! Achieve!"
+<!-- Andrew Carnegie -->
 ```
 
 </div>
