@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Think of yourself as on the threshold of unparalleled success. A whole, clear, glorious life lies before you. Achieve! Achieve!"
-<!-- Andrew Carnegie -->
+"If a man has been his mother's undisputed darling he retains throughout life the triumphant feeling, the confidence in success, which not seldom brings actual success along with it."
+<!-- Sigmund Freud -->
 ```
 
 </div>
