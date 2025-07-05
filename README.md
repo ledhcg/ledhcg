@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If a man has been his mother's undisputed darling he retains throughout life the triumphant feeling, the confidence in success, which not seldom brings actual success along with it."
-<!-- Sigmund Freud -->
+"I wonder how many times people give up just before a breakthrough - when they are on the very brink of success."
+<!-- Joyce Meyer -->
 ```
 
 </div>
