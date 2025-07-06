@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I wonder how many times people give up just before a breakthrough - when they are on the very brink of success."
-<!-- Joyce Meyer -->
+"Urgent optimism is the desire to act immediately to tackle an obstacle, combined with the belief that we have a reasonable hope of success."
+<!-- Jane McGonigal -->
 ```
 
 </div>
