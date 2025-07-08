@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you want success, be unique."
-<!-- Natalie Massenet -->
+"Earn your success based on service to others, not at the expense of others."
+<!-- H. Jackson Brown, Jr. -->
 ```
 
 </div>
