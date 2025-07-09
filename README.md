@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Earn your success based on service to others, not at the expense of others."
-<!-- H. Jackson Brown, Jr. -->
+"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
+<!-- Albert Schweitzer -->
 ```
 
 </div>
