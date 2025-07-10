@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
-<!-- Albert Schweitzer -->
+"The key to success is to get out into the store and listen to what the associates have to say."
+<!-- Sam Walton -->
 ```
 
 </div>
