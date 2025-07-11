@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The key to success is to get out into the store and listen to what the associates have to say."
-<!-- Sam Walton -->
+"You know you are on the road to success if you would do your job, and not be paid for it."
+<!-- Oprah Winfrey -->
 ```
 
 </div>
