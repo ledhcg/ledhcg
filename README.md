@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You know you are on the road to success if you would do your job, and not be paid for it."
-<!-- Oprah Winfrey -->
+"There's no such thing as an overnight success."
+<!-- Tory Burch -->
 ```
 
 </div>
