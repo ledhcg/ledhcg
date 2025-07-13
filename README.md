@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's no such thing as an overnight success."
-<!-- Tory Burch -->
+"You will be a failure, until you impress the subconscious with the conviction you are a success. This is done by making an affirmation which 'clicks.'"
+<!-- Florence Scovel Shinn -->
 ```
 
 </div>
