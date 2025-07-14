@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You will be a failure, until you impress the subconscious with the conviction you are a success. This is done by making an affirmation which 'clicks.'"
-<!-- Florence Scovel Shinn -->
+"How one handles success or failure is determined by their early childhood."
+<!-- Harold Ramis -->
 ```
 
 </div>
