@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"How one handles success or failure is determined by their early childhood."
-<!-- Harold Ramis -->
+"If you want to be truly successful invest in yourself to get the knowledge you need to find your unique factor. When you find it and focus on it and persevere your success will blossom."
+<!-- Sydney Madwed -->
 ```
 
 </div>
