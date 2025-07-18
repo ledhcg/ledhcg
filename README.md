@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In hindsight, I slid into arrogance based upon past success."
-<!-- Reed Hastings -->
+"True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well."
+<!-- Bill Owens -->
 ```
 
 </div>
