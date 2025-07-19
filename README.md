@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well."
-<!-- Bill Owens -->
+"All those who are around me are the bridge to my success, so they are all important."
+<!-- Manny Pacquiao -->
 ```
 
 </div>
