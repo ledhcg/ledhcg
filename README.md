@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"All those who are around me are the bridge to my success, so they are all important."
-<!-- Manny Pacquiao -->
+"Whosoever desires constant success must change his conduct with the times."
+<!-- Niccolo Machiavelli -->
 ```
 
 </div>
