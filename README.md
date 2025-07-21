@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Whosoever desires constant success must change his conduct with the times."
-<!-- Niccolo Machiavelli -->
+"Success in training the boy depends largely on the Scoutmaster's own personal example."
+<!-- Robert Baden-Powell -->
 ```
 
 </div>
