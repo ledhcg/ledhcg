@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success in training the boy depends largely on the Scoutmaster's own personal example."
-<!-- Robert Baden-Powell -->
+"Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another."
+<!-- Napoleon Hill -->
 ```
 
 </div>
