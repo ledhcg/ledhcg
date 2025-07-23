@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another."
-<!-- Napoleon Hill -->
+"Patience is a key to success. I rely on that."
+<!-- Cordarrelle Patterson -->
 ```
 
 </div>
