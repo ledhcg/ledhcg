@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Patience is a key to success. I rely on that."
-<!-- Cordarrelle Patterson -->
+"The key to success is action, and the essential in action is perseverance."
+<!-- Sun Yat-sen -->
 ```
 
 </div>
