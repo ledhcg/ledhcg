@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The key to success is action, and the essential in action is perseverance."
-<!-- Sun Yat-sen -->
+"The true success is the person who invented himself."
+<!-- Al Goldstein -->
 ```
 
 </div>
