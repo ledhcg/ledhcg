@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The true success is the person who invented himself."
-<!-- Al Goldstein -->
+"I'm not someone that's had very much success in the speed dating of producers, trying a day and seeing how it goes. It's likely because of how much I write alone."
+<!-- Gracie Abrams -->
 ```
 
 </div>
