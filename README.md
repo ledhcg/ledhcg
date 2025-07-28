@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Patience, persistence and perspiration make an unbeatable combination for success."
-<!-- Napoleon Hill -->
+"Though so trifling, the success of our first Buffalo hunt gave us quite a social lift."
+<!-- Ernest Thompson Seton -->
 ```
 
 </div>
