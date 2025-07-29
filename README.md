@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Though so trifling, the success of our first Buffalo hunt gave us quite a social lift."
-<!-- Ernest Thompson Seton -->
+"The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it."
+<!-- Kalpana Chawla -->
 ```
 
 </div>
