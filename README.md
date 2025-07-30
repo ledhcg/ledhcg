@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it."
-<!-- Kalpana Chawla -->
+"One measure of your success will be the degree to which you build up others who work with you. While building up others, you will build up yourself."
+<!-- James E. Casey -->
 ```
 
 </div>
