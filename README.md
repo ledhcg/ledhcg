@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"One measure of your success will be the degree to which you build up others who work with you. While building up others, you will build up yourself."
-<!-- James E. Casey -->
+"Success is getting and achieving what you want. Happiness is wanting and being content with what you get."
+<!-- Bernard Meltzer -->
 ```
 
 </div>
