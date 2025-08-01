@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is getting and achieving what you want. Happiness is wanting and being content with what you get."
-<!-- Bernard Meltzer -->
+"People love Twinkies, and everyone knows about them, yet Hostess went bankrupt. Attention and commercial success have an uncertain relationship in business."
+<!-- Andrew Yang -->
 ```
 
 </div>
