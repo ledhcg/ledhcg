@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"People love Twinkies, and everyone knows about them, yet Hostess went bankrupt. Attention and commercial success have an uncertain relationship in business."
-<!-- Andrew Yang -->
+"At the end of the day, the most overwhelming key to a child's success is the positive involvement of parents."
+<!-- Jane D. Hull -->
 ```
 
 </div>
