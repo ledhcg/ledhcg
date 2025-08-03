@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"At the end of the day, the most overwhelming key to a child's success is the positive involvement of parents."
-<!-- Jane D. Hull -->
+"Mothers have always held such symbolic weight in determining a person's worth. Your mother tongue, your motherland, your mother's values - these things can qualify or disqualify you from attaining myriad American dreams: love, fluency, citizenship, legitimacy, acceptance, success, freedom."
+<!-- Jenny Zhang -->
 ```
 
 </div>
