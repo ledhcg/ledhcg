@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Character is the key to your success. Inspiration is key."
-<!-- Rudy Ruettiger -->
+"There is no success without hardship."
+<!-- Sophocles -->
 ```
 
 </div>
