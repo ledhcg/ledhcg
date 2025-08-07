@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no success without hardship."
-<!-- Sophocles -->
+"In this world it is not what we take up, but what we give up, that makes us rich."
+<!-- Henry Ward Beecher -->
 ```
 
 </div>
