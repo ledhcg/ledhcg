@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We all learn lessons in life. Some stick, some don't. I have always learned more from rejection and failure than from acceptance and success."
-<!-- Henry Rollins -->
+"My powers are ordinary. Only my application brings me success."
+<!-- Isaac Newton -->
 ```
 
 </div>
