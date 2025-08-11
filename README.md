@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My powers are ordinary. Only my application brings me success."
-<!-- Isaac Newton -->
+"Success means having the courage, the determination, and the will to become the person you believe you were meant to be."
+<!-- George A. Sheehan -->
 ```
 
 </div>
