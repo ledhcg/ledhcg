@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success means having the courage, the determination, and the will to become the person you believe you were meant to be."
-<!-- George A. Sheehan -->
+"Keep in mind that neither success nor failure is ever final."
+<!-- Roger Babson -->
 ```
 
 </div>
