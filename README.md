@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Keep in mind that neither success nor failure is ever final."
-<!-- Roger Babson -->
+"Past performance speaks a tremendous amount about one's ability and likelihood for success."
+<!-- Mark Spitz -->
 ```
 
 </div>
