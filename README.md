@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."
-<!-- Elbert Hubbard -->
+"There's a lot of blood, sweat, and guts between dreams and success."
+<!-- Bear Bryant -->
 ```
 
 </div>
