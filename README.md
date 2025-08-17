@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's a lot of blood, sweat, and guts between dreams and success."
-<!-- Bear Bryant -->
+"A government for the people must depend for its success on the intelligence, the morality, the justice, and the interest of the people themselves."
+<!-- Grover Cleveland -->
 ```
 
 </div>
