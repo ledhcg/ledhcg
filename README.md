@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is boring... failure is exciting and more entertaining."
-<!-- Anupam Kher -->
+"Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all."
+<!-- George Washington -->
 ```
 
 </div>
