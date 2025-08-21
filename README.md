@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all."
-<!-- George Washington -->
+"Success isn't everything but it makes a man stand straight."
+<!-- Lillian Hellman -->
 ```
 
 </div>
