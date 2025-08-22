@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success isn't everything but it makes a man stand straight."
-<!-- Lillian Hellman -->
+"Without continual growth and progress, such words as improvement, achievement, and success have no meaning."
+<!-- Benjamin Franklin -->
 ```
 
 </div>
