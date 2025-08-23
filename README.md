@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Without continual growth and progress, such words as improvement, achievement, and success have no meaning."
-<!-- Benjamin Franklin -->
+"I have had success throughout the years. Some of the hard rock bands today don't have the history that I have."
+<!-- Gary Cherone -->
 ```
 
 </div>
