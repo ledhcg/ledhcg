@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Self-belief and hard work will always earn you success."
-<!-- Virat Kohli -->
+"No one who achieves success does so without acknowledging the help of others. The wise and confident acknowledge this help with gratitude."
+<!-- Alfred North Whitehead -->
 ```
 
 </div>
