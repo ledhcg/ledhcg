@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"No one who achieves success does so without acknowledging the help of others. The wise and confident acknowledge this help with gratitude."
-<!-- Alfred North Whitehead -->
+"As an outside; don't worry about failure, because failure will take care of itself. Focus on success."
+<!-- Henry Cavill -->
 ```
 
 </div>
