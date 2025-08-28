@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"As an outside; don't worry about failure, because failure will take care of itself. Focus on success."
-<!-- Henry Cavill -->
+"The key to success is action, and the essential in action is perseverance."
+<!-- Sun Yat-sen -->
 ```
 
 </div>
