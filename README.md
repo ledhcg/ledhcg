@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a science; if you have the conditions, you get the result."
-<!-- Oscar Wilde -->
+"Success doesn't motivate me as much as integrity does. Everyone loses. I enjoy the pressure of showing up every single day, being focused, putting forth my best effort, getting the best out of my teammates, and enjoying the journey."
+<!-- Becky Sauerbrunn -->
 ```
 
 </div>
