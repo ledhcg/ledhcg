@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success doesn't motivate me as much as integrity does. Everyone loses. I enjoy the pressure of showing up every single day, being focused, putting forth my best effort, getting the best out of my teammates, and enjoying the journey."
-<!-- Becky Sauerbrunn -->
+"Success is the person who year after year reaches the highest limits in his field."
+<!-- Sparky Anderson -->
 ```
 
 </div>
