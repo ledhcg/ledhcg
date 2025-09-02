@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the person who year after year reaches the highest limits in his field."
-<!-- Sparky Anderson -->
+"True success is overcoming the fear of being unsuccessful."
+<!-- Paul Sweeney -->
 ```
 
 </div>
