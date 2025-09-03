@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"True success is overcoming the fear of being unsuccessful."
-<!-- Paul Sweeney -->
+"The ambition and focus that propel you to success can also be your downfall."
+<!-- Judy Smith -->
 ```
 
 </div>
