@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The ambition and focus that propel you to success can also be your downfall."
-<!-- Judy Smith -->
+"Perhaps the most useful lesson which has come out of the work on penicillin has been the demonstration that success in this field depends on the development and coordinated use of technical methods."
+<!-- Howard Florey -->
 ```
 
 </div>
