@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Our success educationally, industrially and politically is based upon the protection of a nation founded by ourselves. And the nation can be nowhere else but in Africa."
-<!-- Marcus Garvey -->
+"It takes two to make a marriage a success and only one to make it a failure."
+<!-- Herbert Samuel -->
 ```
 
 </div>
