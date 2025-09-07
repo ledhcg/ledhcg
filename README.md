@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It takes two to make a marriage a success and only one to make it a failure."
-<!-- Herbert Samuel -->
+"Nothing succeeds like success. Get a little success, and then just get a little more."
+<!-- Maya Angelou -->
 ```
 
 </div>
