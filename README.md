@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Nothing succeeds like success. Get a little success, and then just get a little more."
-<!-- Maya Angelou -->
+"An artist must never be a prisoner. Prisoner? An artist should never be a prisoner of himself, prisoner of style, prisoner of reputation, prisoner of success, etc."
+<!-- Henri Matisse -->
 ```
 
 </div>
