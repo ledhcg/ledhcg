@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Learning and innovation go hand in hand. The arrogance of success is to think that what you did yesterday will be sufficient for tomorrow."
-<!-- William Pollard -->
+"The culture of a workplace - an organization's values, norms and practices - has a huge impact on our happiness and success."
+<!-- Adam Grant -->
 ```
 
 </div>
