@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There will always be obstacles and challenges that stand in your way. Building mental strength will help you develop resilience to those potential hazards so you can continue on your journey to success."
-<!-- Amy Morin -->
+"We need quantitative assessments of the success of education. We need certification and qualifications both for teachers and for pupils. It is not a choice between quantity and quality, between access and excellence. Both of these will happen together if people really do believe in the importance of education to change lives."
+<!-- Gordon Brown -->
 ```
 
 </div>
