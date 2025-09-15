@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"For me, success is a state of mind. I feel like success isn't about conquering something; it's being happy with who you are."
-<!-- Britney Spears -->
+"Success is a matter of one's own feeling about oneself."
+<!-- Edward James Olmos -->
 ```
 
 </div>
