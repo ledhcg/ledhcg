@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a matter of one's own feeling about oneself."
-<!-- Edward James Olmos -->
+"One goes through school, college, medical school and one's internship learning little or nothing about goodness but a good deal about success."
+<!-- Ashley Montagu -->
 ```
 
 </div>
