@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"One goes through school, college, medical school and one's internship learning little or nothing about goodness but a good deal about success."
-<!-- Ashley Montagu -->
+"There is an immutable conflict at work in life and in business, a constant battle between peace and chaos. Neither can be mastered, but both can be influenced. How you go about that is the key to success."
+<!-- Phil Knight -->
 ```
 
 </div>
