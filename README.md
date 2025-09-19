@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You can only get better if you're prepared to go beyond your limits at times. That's very important for success."
-<!-- David Wagner -->
+"There's no one particular road that will lead you to success. I think everybody will find it differently."
+<!-- Marina and the Diamonds -->
 ```
 
 </div>
