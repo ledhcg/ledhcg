@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's no path to success. Everyone constructs their own path. The important thing is to follow your heart. Find your niche, is my best advice."
-<!-- Karol G -->
+"Talent alone won't make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: 'Are your ready?'"
+<!-- Johnny Carson -->
 ```
 
 </div>
