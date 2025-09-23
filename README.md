@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We're born with success. It is only others who point out our failures, and what they attribute to us as failure."
-<!-- Whoopi Goldberg -->
+"A lot of people think the path to success is a straight line, but it's not. It has got many turns and curves, and you just got to go with the ebbs and flows of it all."
+<!-- Kevin Jonas -->
 ```
 
 </div>
