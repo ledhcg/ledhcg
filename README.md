@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A constant struggle, a ceaseless battle to bring success from inhospitable surroundings, is the price of all great achievements."
-<!-- Orison Swett Marden -->
+"A lot of people don't understand what feminism is. They think it is about advance and success for women, but it's not that at all. It is about power for the female left. And they have this, I think, ridiculous idea that American women are oppressed by the patriarchy and we need laws and government to solve our problems for us."
+<!-- Phyllis Schlafly -->
 ```
 
 </div>
