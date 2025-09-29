@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"People fall forward to success."
-<!-- Mary Kay Ash -->
+"I realized that my success comes from doing the things I love most."
+<!-- Rick Ross -->
 ```
 
 </div>
