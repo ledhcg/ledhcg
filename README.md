@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I realized that my success comes from doing the things I love most."
-<!-- Rick Ross -->
+"There are no shortcuts to success. You have to believe in yourself, and never give up."
+<!-- Neha Dhupia -->
 ```
 
 </div>
