@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There are no shortcuts to success. You have to believe in yourself, and never give up."
-<!-- Neha Dhupia -->
+"True success is overcoming the fear of being unsuccessful."
+<!-- Paul Sweeney -->
 ```
 
 </div>
