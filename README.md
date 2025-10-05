@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In a balanced organization, working towards a common objective, there is success."
-<!-- Arthur Helps -->
+"I attribute my success to this - I never gave or took any excuse."
+<!-- Florence Nightingale -->
 ```
 
 </div>
