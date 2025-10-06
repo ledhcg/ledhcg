@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I attribute my success to this - I never gave or took any excuse."
-<!-- Florence Nightingale -->
+"Gleeful, unembarrassed ruthlessness, once rightly kept in check, has become normal among us, and 'Game Of Thrones' is a success because this change is now more or less complete."
+<!-- Peter Hitchens -->
 ```
 
 </div>
