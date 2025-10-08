@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Always bear in mind that your own resolution to succeed is more important than any other."
-<!-- Abraham Lincoln -->
+"Luxury is the wolf at the door and its fangs are the vanities and conceits germinated by success. When an artist learns this, he knows where the danger is."
+<!-- Tennessee Williams -->
 ```
 
 </div>
