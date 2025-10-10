@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no success without hardship."
-<!-- Sophocles -->
+"Your chances of success in any undertaking can always be measured by your belief in yourself."
+<!-- Robert Collier -->
 ```
 
 </div>
