@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Your chances of success in any undertaking can always be measured by your belief in yourself."
-<!-- Robert Collier -->
+"You cannot climb the ladder of success dressed in the costume of failure."
+<!-- Zig Ziglar -->
 ```
 
 </div>
