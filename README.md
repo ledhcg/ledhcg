@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You cannot climb the ladder of success dressed in the costume of failure."
-<!-- Zig Ziglar -->
+"True success for me is allowing players to be better than I was. That is what I went into coaching for and I've not lost sight of that."
+<!-- Sean Dyche -->
 ```
 
 </div>
