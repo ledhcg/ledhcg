@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The road to success runs uphill."
-<!-- Willie Davis -->
+"I've failed over and over and over again in my life and that is why I succeed."
+<!-- Michael Jordan -->
 ```
 
 </div>
