@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Ultimately, leadership is not about glorious crowning acts. It's about keeping your team focused on a goal and motivated to do their best to achieve it, especially when the stakes are high and the consequences really matter. It is about laying the groundwork for others' success, and then standing back and letting them shine."
-<!-- Chris Hadfield -->
+"If you work just for money, you'll never make it, but if you love what you're doing and you always put the customer first, success will be yours."
+<!-- Ray Kroc -->
 ```
 
 </div>
