@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's how you deal with failure that determines how you achieve success."
-<!-- Charlotte Whitton -->
+"It's easy to walk away from risk, and you don't actually have to face it. Success is based upon overcoming the inherent risk you can't manage your way out of."
+<!-- Maurice Flanagan -->
 ```
 
 </div>
