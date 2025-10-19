@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's easy to walk away from risk, and you don't actually have to face it. Success is based upon overcoming the inherent risk you can't manage your way out of."
-<!-- Maurice Flanagan -->
+"Activists need to educate themselves about the power of crypto currencies like Bitcoin, invented in 2009, and use crypto to leverage the success of their independent media gains to tip the balance of power away from the troika in ways that could never happen by backing a political candidate."
+<!-- Max Keiser -->
 ```
 
 </div>
