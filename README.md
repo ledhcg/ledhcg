@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Whatever you do to gain success, you have to hang in there and hope good things happen. Always think positive."
-<!-- Don Rickles -->
+"Everybody is interested in success, but nobody cares about the process behind it."
+<!-- Pratik Gandhi -->
 ```
 
 </div>
