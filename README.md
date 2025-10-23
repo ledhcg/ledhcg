@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Everybody is interested in success, but nobody cares about the process behind it."
-<!-- Pratik Gandhi -->
+"Success demands singleness of purpose."
+<!-- Vince Lombardi -->
 ```
 
 </div>
