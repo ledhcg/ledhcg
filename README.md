@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success demands singleness of purpose."
-<!-- Vince Lombardi -->
+"My private measure of success is daily. If this were to be the last day of my life would I be content with it? To live in a harmonious balance of commitments and pleasures is what I strive for."
+<!-- Jane Rule -->
 ```
 
 </div>
