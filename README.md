@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My private measure of success is daily. If this were to be the last day of my life would I be content with it? To live in a harmonious balance of commitments and pleasures is what I strive for."
-<!-- Jane Rule -->
+"Striving for success is healthy - but believing you need to succeed the first time around may backfire. Mentally strong people believe failure is part of the process toward a long journey to success. By viewing failure as a temporary setback, they're able to bounce back and move forward with ease."
+<!-- Amy Morin -->
 ```
 
 </div>
