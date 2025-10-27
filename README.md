@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success to me is having ten honeydew melons and eating only the top half of each slice."
-<!-- Barbra Streisand -->
+"Failure is not an option. Everyone has to succeed."
+<!-- Arnold Schwarzenegger -->
 ```
 
 </div>
