@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Failure is not an option. Everyone has to succeed."
-<!-- Arnold Schwarzenegger -->
+"There's a lot of blood, sweat, and guts between dreams and success."
+<!-- Bear Bryant -->
 ```
 
 </div>
