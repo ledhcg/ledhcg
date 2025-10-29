@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's a lot of blood, sweat, and guts between dreams and success."
-<!-- Bear Bryant -->
+"No self-respecting woman should wish or work for the success of a party who ignores her sex."
+<!-- Susan B. Anthony -->
 ```
 
 </div>
