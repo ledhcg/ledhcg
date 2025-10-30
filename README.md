@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"No self-respecting woman should wish or work for the success of a party who ignores her sex."
-<!-- Susan B. Anthony -->
+"If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours."
+<!-- Henry David Thoreau -->
 ```
 
 </div>
