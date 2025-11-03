@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I focused my life on things that are a little more dependable, like my family and things that actually make me happy, rather than momentary flashes of success or anything like that."
-<!-- Adam Scott -->
+"The supreme quality for leadership is unquestionably integrity. Without it, no real success is possible, no matter whether it is on a section gang, a football field, in an army, or in an office."
+<!-- Dwight D. Eisenhower -->
 ```
 
 </div>
