@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I demand a lot from myself and reflect this attitude upon others: I consider it to be an important quality for a leader. I also think it is impossible to achieve success without persistence."
-<!-- Yelena Baturina -->
+"Success, for me, is being able to wake up in the morning and feel like a 12 year old."
+<!-- John McAfee -->
 ```
 
 </div>
