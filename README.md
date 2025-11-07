@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success, for me, is being able to wake up in the morning and feel like a 12 year old."
-<!-- John McAfee -->
+"The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever."
+<!-- Yuval Noah Harari -->
 ```
 
 </div>
