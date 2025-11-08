@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever."
-<!-- Yuval Noah Harari -->
+"I've been so fortunate in my life that my family has never been jealous of my success. They have shown true love and commitment to me by being supportive. They shared in it."
+<!-- Mike Krzyzewski -->
 ```
 
 </div>
