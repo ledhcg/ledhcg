@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I've been so fortunate in my life that my family has never been jealous of my success. They have shown true love and commitment to me by being supportive. They shared in it."
-<!-- Mike Krzyzewski -->
+"Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don't quit."
+<!-- Conrad Hilton -->
 ```
 
 </div>
