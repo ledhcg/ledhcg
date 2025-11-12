@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Fame always brings loneliness. Success is as ice cold and lonely as the North Pole."
-<!-- Vicki Baum -->
+"Of course, success takes you where your character can't sustain you."
+<!-- Labrinth -->
 ```
 
 </div>
