@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Of course, success takes you where your character can't sustain you."
-<!-- Labrinth -->
+"Success is not forever and failure isn't fatal."
+<!-- Don Shula -->
 ```
 
 </div>
