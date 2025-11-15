@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The fact that anyone lives in America is the single reason poverty is never a death sentence, and transforms it instead into - at worst - an obstacle on the path to a better life and road to freedom and success."
-<!-- Chuck Norris -->
+"A person with a new idea is a crank until the idea succeeds."
+<!-- Mark Twain -->
 ```
 
 </div>
