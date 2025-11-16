@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A person with a new idea is a crank until the idea succeeds."
-<!-- Mark Twain -->
+"Failure is success if we learn from it."
+<!-- Malcolm Forbes -->
 ```
 
 </div>
