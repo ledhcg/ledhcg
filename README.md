@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Failure is success if we learn from it."
-<!-- Malcolm Forbes -->
+"A true friend is one who overlooks your failures and tolerates your success!"
+<!-- Doug Larson -->
 ```
 
 </div>
