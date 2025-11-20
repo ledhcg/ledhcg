@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The secret of your success is determined by your daily agenda."
-<!-- John C. Maxwell -->
+"Keep in mind that neither success nor failure is ever final."
+<!-- Roger Babson -->
 ```
 
 </div>
