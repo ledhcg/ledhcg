@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"How one handles success or failure is determined by their early childhood."
-<!-- Harold Ramis -->
+"Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties."
+<!-- Helen Keller -->
 ```
 
 </div>
