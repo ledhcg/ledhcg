@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties."
-<!-- Helen Keller -->
+"Do you remember any instance where tyranny was destroyed and freedom established on its ruins, among a people possessing so small a share of virtue and public spirit? I recollect none, and this more than the British arms makes me fearful of final success, without a reform."
+<!-- Patrick Henry -->
 ```
 
 </div>
