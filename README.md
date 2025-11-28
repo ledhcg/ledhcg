@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the child of audacity."
-<!-- Benjamin Disraeli -->
+"In order to succeed you must fail, so that you know what not to do the next time."
+<!-- Anthony J. D'Angelo -->
 ```
 
 </div>
