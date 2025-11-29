@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In order to succeed you must fail, so that you know what not to do the next time."
-<!-- Anthony J. D'Angelo -->
+"I'd rather be a failure at something I love than a success at something I hate."
+<!-- George Burns -->
 ```
 
 </div>
