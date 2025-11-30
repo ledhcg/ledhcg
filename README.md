@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I'd rather be a failure at something I love than a success at something I hate."
-<!-- George Burns -->
+"There is no force like success, and that is why the individual makes all effort to surround himself throughout life with the evidence of it; as of the individual, so should it be of the nation."
+<!-- Marcus Garvey -->
 ```
 
 </div>
