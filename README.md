@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You can only get better if you're prepared to go beyond your limits at times. That's very important for success."
-<!-- David Wagner -->
+"The man who has done his level best... is a success, even though the world may write him down a failure."
+<!-- B. C. Forbes -->
 ```
 
 </div>
