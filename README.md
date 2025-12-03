@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The man who has done his level best... is a success, even though the world may write him down a failure."
-<!-- B. C. Forbes -->
+"If someone has children, the first thing they want is for them to be happy, and then become someone in life and all that. But the educational system, I mean always, not just now, creates competitive, successful people, and does not educate them to be happy. The problem is that success gives money, not happiness. The eternal problem."
+<!-- Jorge Bucay -->
 ```
 
 </div>
