@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If someone has children, the first thing they want is for them to be happy, and then become someone in life and all that. But the educational system, I mean always, not just now, creates competitive, successful people, and does not educate them to be happy. The problem is that success gives money, not happiness. The eternal problem."
-<!-- Jorge Bucay -->
+"It needs time. Nobody wants to hear it, but that's the truth: if you want to have success in the future, you have to be ready to work now."
+<!-- Jurgen Klopp -->
 ```
 
 </div>
