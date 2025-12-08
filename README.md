@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"After I won the Oscar, my salary doubled, my friends tripled, my children became more popular at school, my butcher made a pass at me, and my maid hit me up for a raise."
-<!-- Shirley Jones -->
+"There are physical characteristics which are inherited. These include things like good looks, high intelligence, physical coordination. These attributes contribute to success in life, and success in life is a determinant of optimism."
+<!-- Martin Seligman -->
 ```
 
 </div>
