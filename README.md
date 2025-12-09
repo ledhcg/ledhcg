@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There are physical characteristics which are inherited. These include things like good looks, high intelligence, physical coordination. These attributes contribute to success in life, and success in life is a determinant of optimism."
-<!-- Martin Seligman -->
+"The secret of success in every field is redefining what success means to you. It can't be your parent's definition, the media's definition, or your neighbor's definition. Otherwise, success will never satisfy you."
+<!-- RuPaul -->
 ```
 
 </div>
