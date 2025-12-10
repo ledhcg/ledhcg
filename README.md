@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The secret of success in every field is redefining what success means to you. It can't be your parent's definition, the media's definition, or your neighbor's definition. Otherwise, success will never satisfy you."
-<!-- RuPaul -->
+"Survival was my only hope, success my only revenge."
+<!-- Patricia Cornwell -->
 ```
 
 </div>
