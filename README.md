@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Survival was my only hope, success my only revenge."
-<!-- Patricia Cornwell -->
+"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."
+<!-- John D. Rockefeller -->
 ```
 
 </div>
