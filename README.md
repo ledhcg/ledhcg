@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's no path to success. Everyone constructs their own path. The important thing is to follow your heart. Find your niche, is my best advice."
-<!-- Karol G -->
+"Fame is something that is bestowed upon you because of success. Success is something you have to chase."
+<!-- Noel Gallagher -->
 ```
 
 </div>
