@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Fame is something that is bestowed upon you because of success. Success is something you have to chase."
-<!-- Noel Gallagher -->
+"Talent alone won't make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: 'Are your ready?'"
+<!-- Johnny Carson -->
 ```
 
 </div>
