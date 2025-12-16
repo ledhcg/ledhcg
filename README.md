@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it."
-<!-- Steve Harvey -->
+"The only yardstick for success our society has is being a champion. No one remembers anything else."
+<!-- John Madden -->
 ```
 
 </div>
