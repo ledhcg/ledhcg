@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"True leaders don't invest in buildings. Jesus never built a building. They invest in people. Why? Because success without a successor is failure. So your legacy should not be in buildings, programs, or projects; your legacy must be in people."
-<!-- Myles Munroe -->
+"Even if you have success on a platform, like YouTube, Instagram or whatever it may be, it's just not as glorified or well respected as an official streaming service, network, or a studio."
+<!-- Matt Rife -->
 ```
 
 </div>
