@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Even if you have success on a platform, like YouTube, Instagram or whatever it may be, it's just not as glorified or well respected as an official streaming service, network, or a studio."
-<!-- Matt Rife -->
+"If everyone is moving forward together, then success takes care of itself."
+<!-- Henry Ford -->
 ```
 
 </div>
