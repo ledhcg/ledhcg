@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If everyone is moving forward together, then success takes care of itself."
-<!-- Henry Ford -->
+"Success means having the courage, the determination, and the will to become the person you believe you were meant to be."
+<!-- George A. Sheehan -->
 ```
 
 </div>
