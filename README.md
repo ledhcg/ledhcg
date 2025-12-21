@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success means having the courage, the determination, and the will to become the person you believe you were meant to be."
-<!-- George A. Sheehan -->
+"We are looking for a set of personal characteristics that predict success, the first and foremost of which is perseverance in the face of challenges. We also look for the ability to influence and motivate others who share your values, strong problem-solving ability, and leadership."
+<!-- Wendy Kopp -->
 ```
 
 </div>
