@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The success and the failure are not my concern, but His."
-<!-- Joseph Barber Lightfoot -->
+"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."
+<!-- Pele -->
 ```
 
 </div>
