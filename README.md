@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."
-<!-- Pele -->
+"Success is often the result of taking a misstep in the right direction."
+<!-- Al Bernstein -->
 ```
 
 </div>
