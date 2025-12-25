@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is often the result of taking a misstep in the right direction."
-<!-- Al Bernstein -->
+"It is not the style of clothes one wears, neither the kind of automobile one drives, nor the amount of money one has in the bank, that counts. These mean nothing. It is simply service that measures success."
+<!-- George Washington Carver -->
 ```
 
 </div>
