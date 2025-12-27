@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"However difficult life may seem, there is always something you can do and succeed at."
-<!-- Stephen Hawking -->
+"Before Ricky Gervais came along, I was a jobbing actress and perfectly content if a little unfulfilled: I'd just done an advert for Imodium. That year, 1999, I auditioned for four parts. 'The Office' was the only one I got. What its success gave me was freedom of choice."
+<!-- Lucy Davis -->
 ```
 
 </div>
