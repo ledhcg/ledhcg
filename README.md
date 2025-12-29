@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success demands singleness of purpose."
-<!-- Vince Lombardi -->
+"The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it."
+<!-- Kalpana Chawla -->
 ```
 
 </div>
