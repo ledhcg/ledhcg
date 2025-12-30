@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it."
-<!-- Kalpana Chawla -->
+"I'm always asked, 'What's the secret to success?' But there are no secrets. Be humble. Be hungry. And always be the hardest worker in the room."
+<!-- Dwayne Johnson -->
 ```
 
 </div>
