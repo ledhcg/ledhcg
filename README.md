@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"As much as you learn to handle failure, you must learn to handle success too, because that's also important."
-<!-- Sourav Ganguly -->
+"For true success ask yourself these four questions: Why? Why not? Why not me? Why not now?"
+<!-- James Allen -->
 ```
 
 </div>
