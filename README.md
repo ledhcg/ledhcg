@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"For true success ask yourself these four questions: Why? Why not? Why not me? Why not now?"
-<!-- James Allen -->
+"What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose."
+<!-- Margaret Thatcher -->
 ```
 
 </div>
