@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The longer you hang in there, the greater the chance that something will happen in your favor. No matter how hard it seems, the longer you persist, the more likely your success."
-<!-- Jack Canfield -->
+"Before everything else, getting ready is the secret of success."
+<!-- Henry Ford -->
 ```
 
 </div>
