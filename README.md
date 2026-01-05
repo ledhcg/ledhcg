@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Before everything else, getting ready is the secret of success."
-<!-- Henry Ford -->
+"If you want to increase your success rate, double your failure rate."
+<!-- Thomas J. Watson -->
 ```
 
 </div>
