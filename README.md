@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you want to increase your success rate, double your failure rate."
-<!-- Thomas J. Watson -->
+"Success is usually the culmination of controlling failure."
+<!-- Sylvester Stallone -->
 ```
 
 </div>
