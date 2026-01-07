@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is usually the culmination of controlling failure."
-<!-- Sylvester Stallone -->
+"Success is a public affair. Failure is a private funeral."
+<!-- Rosalind Russell -->
 ```
 
 </div>
