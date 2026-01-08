@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a public affair. Failure is a private funeral."
-<!-- Rosalind Russell -->
+"Eighty percent of success is showing up."
+<!-- Woody Allen -->
 ```
 
 </div>
