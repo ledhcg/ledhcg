@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Eighty percent of success is showing up."
-<!-- Woody Allen -->
+"Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don't quit."
+<!-- Conrad Hilton -->
 ```
 
 </div>
