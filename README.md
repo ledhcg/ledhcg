@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don't quit."
-<!-- Conrad Hilton -->
+"If you find it in your heart to care for somebody else, you will have succeeded."
+<!-- Maya Angelou -->
 ```
 
 </div>
