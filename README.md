@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you find it in your heart to care for somebody else, you will have succeeded."
-<!-- Maya Angelou -->
+"The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty."
+<!-- Zig Ziglar -->
 ```
 
 </div>
