@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty."
-<!-- Zig Ziglar -->
+"Nepotism will never give you success, but talent can."
+<!-- Ashok Saraf -->
 ```
 
 </div>
