@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Nepotism will never give you success, but talent can."
-<!-- Ashok Saraf -->
+"In life, passion is the secret to success."
+<!-- Lee Corso -->
 ```
 
 </div>
