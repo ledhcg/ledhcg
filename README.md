@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In life, passion is the secret to success."
-<!-- Lee Corso -->
+"Success in life comes not from holding a good hand, but in playing a poor hand well."
+<!-- Denis Waitley -->
 ```
 
 </div>
