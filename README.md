@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success in life comes not from holding a good hand, but in playing a poor hand well."
-<!-- Denis Waitley -->
+"Success isn't measured by money or power or social rank. Success is measured by your discipline and inner peace."
+<!-- Mike Ditka -->
 ```
 
 </div>
