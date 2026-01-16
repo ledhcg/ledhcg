@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success isn't measured by money or power or social rank. Success is measured by your discipline and inner peace."
-<!-- Mike Ditka -->
+"There are people who make things happen, there are people who watch things happen, and there are people who wonder what happened. To be successful, you need to be a person who makes things happen."
+<!-- Jim Lovell -->
 ```
 
 </div>
