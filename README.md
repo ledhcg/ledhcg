@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There are people who make things happen, there are people who watch things happen, and there are people who wonder what happened. To be successful, you need to be a person who makes things happen."
-<!-- Jim Lovell -->
+"Mistakes are the best teachers. One does not learn from success. It is desirable to learn vicariously from other people's failures, but it gets much more firmly seared in when they are your own."
+<!-- Mohnish Pabrai -->
 ```
 
 </div>
