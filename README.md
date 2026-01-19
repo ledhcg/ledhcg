@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Past performance speaks a tremendous amount about one's ability and likelihood for success."
-<!-- Mark Spitz -->
+"True success, true happiness lies in freedom and fulfillment."
+<!-- Dada Vaswani -->
 ```
 
 </div>
