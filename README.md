@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"True success, true happiness lies in freedom and fulfillment."
-<!-- Dada Vaswani -->
+"Whatever you do to gain success, you have to hang in there and hope good things happen. Always think positive."
+<!-- Don Rickles -->
 ```
 
 </div>
