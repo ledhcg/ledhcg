@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Whatever you do to gain success, you have to hang in there and hope good things happen. Always think positive."
-<!-- Don Rickles -->
+"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."
+<!-- Pele -->
 ```
 
 </div>
