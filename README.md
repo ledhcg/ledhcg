@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."
-<!-- Pele -->
+"The measure of success is not whether you have a tough problem to deal with, but whether it is the same problem you had last year."
+<!-- John Foster Dulles -->
 ```
 
 </div>
