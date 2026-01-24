@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's a lot of blood, sweat, and guts between dreams and success."
-<!-- Bear Bryant -->
+"You can only get better if you're prepared to go beyond your limits at times. That's very important for success."
+<!-- David Wagner -->
 ```
 
 </div>
