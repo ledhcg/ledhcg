@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You can only get better if you're prepared to go beyond your limits at times. That's very important for success."
-<!-- David Wagner -->
+"If I remain true to what's in my heart, that's all the success I need."
+<!-- Steve Vai -->
 ```
 
 </div>
