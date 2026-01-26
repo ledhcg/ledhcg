@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If I remain true to what's in my heart, that's all the success I need."
-<!-- Steve Vai -->
+"It's important to understand how Coinbase thinks about regulation and compliance in the digital currency space. As an exchange, we view compliance as key to digital currency's success."
+<!-- Brian Armstrong -->
 ```
 
 </div>
