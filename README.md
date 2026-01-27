@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's important to understand how Coinbase thinks about regulation and compliance in the digital currency space. As an exchange, we view compliance as key to digital currency's success."
-<!-- Brian Armstrong -->
+"You lead with direction, and you try to lead by example. I try to be there when things are not good and obviously share the spoils of success."
+<!-- Roger Penske -->
 ```
 
 </div>
