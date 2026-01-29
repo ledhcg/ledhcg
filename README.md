@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The greatest trap in our life is not success, popularity or power, but self-rejection."
-<!-- Henri Nouwen -->
+"Education is the key to success in life, and teachers make a lasting impact in the lives of their students."
+<!-- Solomon Ortiz -->
 ```
 
 </div>
