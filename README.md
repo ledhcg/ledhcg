@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Education is the key to success in life, and teachers make a lasting impact in the lives of their students."
-<!-- Solomon Ortiz -->
+"Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."
+<!-- Epictetus -->
 ```
 
 </div>
