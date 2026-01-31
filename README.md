@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."
-<!-- Epictetus -->
+"I realized that my success comes from doing the things I love most."
+<!-- Rick Ross -->
 ```
 
 </div>
