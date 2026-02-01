@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I realized that my success comes from doing the things I love most."
-<!-- Rick Ross -->
+"Do something you really like, and hopefully it pays the rent. As far as I'm concerned, that's success."
+<!-- Tom Petty -->
 ```
 
 </div>
