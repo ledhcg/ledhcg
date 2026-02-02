@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Do something you really like, and hopefully it pays the rent. As far as I'm concerned, that's success."
-<!-- Tom Petty -->
+"Success is steady progress toward one's personal goals."
+<!-- Jim Rohn -->
 ```
 
 </div>
