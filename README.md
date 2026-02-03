@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is steady progress toward one's personal goals."
-<!-- Jim Rohn -->
+"The thermometer of success is merely the jealousy of the malcontents."
+<!-- Salvador Dali -->
 ```
 
 </div>
