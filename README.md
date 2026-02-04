@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The thermometer of success is merely the jealousy of the malcontents."
-<!-- Salvador Dali -->
+"Today's tactical victory does not guarantee tomorrow's strategic success."
+<!-- Peter Pace -->
 ```
 
 </div>
