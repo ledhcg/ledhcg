@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Today's tactical victory does not guarantee tomorrow's strategic success."
-<!-- Peter Pace -->
+"When I wrap my hands, I do it for my family. I owe my courage to them and also my success. That's why I fight."
+<!-- Gennady Golovkin -->
 ```
 
 </div>
