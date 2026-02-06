@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"When I wrap my hands, I do it for my family. I owe my courage to them and also my success. That's why I fight."
-<!-- Gennady Golovkin -->
+"Anything that won't sell, I don't want to invent. Its sale is proof of utility, and utility is success."
+<!-- Thomas A. Edison -->
 ```
 
 </div>
