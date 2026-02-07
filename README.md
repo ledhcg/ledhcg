@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Anything that won't sell, I don't want to invent. Its sale is proof of utility, and utility is success."
-<!-- Thomas A. Edison -->
+"In this world it is not what we take up, but what we give up, that makes us rich."
+<!-- Henry Ward Beecher -->
 ```
 
 </div>
