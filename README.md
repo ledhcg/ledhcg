@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In this world it is not what we take up, but what we give up, that makes us rich."
-<!-- Henry Ward Beecher -->
+"Success is counted sweetest by those who never succeed."
+<!-- Emily Dickinson -->
 ```
 
 </div>
