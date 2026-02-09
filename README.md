@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is counted sweetest by those who never succeed."
-<!-- Emily Dickinson -->
+"Every failure is a step to success."
+<!-- William Whewell -->
 ```
 
 </div>
