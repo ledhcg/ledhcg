@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Perseverance is also key to success in any endeavor, but without perseverance in combat, there can be no victory."
-<!-- Jocko Willink -->
+"The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it."
+<!-- Kalpana Chawla -->
 ```
 
 </div>
