@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it."
-<!-- Kalpana Chawla -->
+"With success comes responsibility of playing your part, to do what you can to help not only those that helped you get to where you're at, but the future of who's going to be playing a part of your business and everything you do in your entire career."
+<!-- Rob Dyrdek -->
 ```
 
 </div>
