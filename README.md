@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"With success comes responsibility of playing your part, to do what you can to help not only those that helped you get to where you're at, but the future of who's going to be playing a part of your business and everything you do in your entire career."
-<!-- Rob Dyrdek -->
+"Be passionate and bold. Always keep learning. You stop doing useful things if you don't learn. So the last part to me is the key, especially if you have had some initial success. It becomes even more critical that you have the learning 'bit' always switched on."
+<!-- Satya Nadella -->
 ```
 
 </div>
