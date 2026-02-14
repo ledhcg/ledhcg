@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Be passionate and bold. Always keep learning. You stop doing useful things if you don't learn. So the last part to me is the key, especially if you have had some initial success. It becomes even more critical that you have the learning 'bit' always switched on."
-<!-- Satya Nadella -->
+"It's fine to celebrate success but it is more important to heed the lessons of failure."
+<!-- Bill Gates -->
 ```
 
 </div>
