@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's fine to celebrate success but it is more important to heed the lessons of failure."
-<!-- Bill Gates -->
+"To guarantee success, act as if it were impossible to fail."
+<!-- Dorothea Brande -->
 ```
 
 </div>
