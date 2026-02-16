@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"To guarantee success, act as if it were impossible to fail."
-<!-- Dorothea Brande -->
+"To be successful, you have to have your heart in your business and your business in your heart."
+<!-- Thomas J. Watson -->
 ```
 
 </div>
