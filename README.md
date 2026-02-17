@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"To be successful, you have to have your heart in your business and your business in your heart."
-<!-- Thomas J. Watson -->
+"Success is nothing more than a few simple disciplines, practiced every day."
+<!-- Jim Rohn -->
 ```
 
 </div>
