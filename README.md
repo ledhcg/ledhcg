@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Do you remember any instance where tyranny was destroyed and freedom established on its ruins, among a people possessing so small a share of virtue and public spirit? I recollect none, and this more than the British arms makes me fearful of final success, without a reform."
-<!-- Patrick Henry -->
+"I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has had to overcome while trying to succeed."
+<!-- Booker T. Washington -->
 ```
 
 </div>
