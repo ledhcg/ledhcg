@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has had to overcome while trying to succeed."
-<!-- Booker T. Washington -->
+"Pray that success will not come any faster than you are able to endure it."
+<!-- Elbert Hubbard -->
 ```
 
 </div>
