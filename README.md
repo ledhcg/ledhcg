@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Pray that success will not come any faster than you are able to endure it."
-<!-- Elbert Hubbard -->
+"Forward, as occasion offers. Never look round to see whether any shall note it... Be satisfied with success in even the smallest matter, and think that even such a result is no trifle."
+<!-- Marcus Aurelius -->
 ```
 
 </div>
