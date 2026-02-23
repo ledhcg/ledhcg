@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A person has to remember that the road to success is always under construction. You have to get that through your head. That it is not easy becoming successful."
-<!-- Steve Harvey -->
+"The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it."
+<!-- Kalpana Chawla -->
 ```
 
 </div>
