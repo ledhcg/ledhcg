@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I rejected the notion that my race or sex would bar my success in life."
-<!-- Constance Baker Motley -->
+"If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress."
+<!-- Calvin Coolidge -->
 ```
 
 </div>
