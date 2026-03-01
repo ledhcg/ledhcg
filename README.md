@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The talent of success is nothing more than doing what you can do well, and doing well whatever you do without thought of fame. If it comes at all it will come because it is deserved, not because it is sought after."
-<!-- Henry Wadsworth Longfellow -->
+"Good planning is important. I've also regarded a sense of humor as one of the most important things on a big expedition. When you're in a difficult or dangerous situation, or when you're depressed about the chances of success, someone who can make you laugh eases the tension."
+<!-- Edmund Hillary -->
 ```
 
 </div>
