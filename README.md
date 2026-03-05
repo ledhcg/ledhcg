@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is not in never failing, but rising everytime you fall!"
-<!-- Jonathan Taylor Thomas -->
+"I look at where I'm at today and realize that most of my success is owed to the mentors that was in my life."
+<!-- Kendrick Lamar -->
 ```
 
 </div>
