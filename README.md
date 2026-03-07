@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Earn your success based on service to others, not at the expense of others."
-<!-- H. Jackson Brown, Jr. -->
+"Success comes from knowing that you did your best to become the best that you are capable of becoming."
+<!-- John Wooden -->
 ```
 
 </div>
