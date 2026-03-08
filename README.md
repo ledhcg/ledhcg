@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success comes from knowing that you did your best to become the best that you are capable of becoming."
-<!-- John Wooden -->
+"The greatest trap in our life is not success, popularity or power, but self-rejection."
+<!-- Henri Nouwen -->
 ```
 
 </div>
