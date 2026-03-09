@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The greatest trap in our life is not success, popularity or power, but self-rejection."
-<!-- Henri Nouwen -->
+"I felt most proud on the success of the Apollo mission."
+<!-- Katherine Johnson -->
 ```
 
 </div>
