@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You've got to eat while you dream. You've got to deliver on short-range commitments, while you develop a long-range strategy and vision and implement it. The success of doing both. Walking and chewing gum if you will. Getting it done in the short-range, and delivering a long-range plan, and executing on that."
-<!-- Jack Welch -->
+"Every person who wins in any undertaking must be willing to cut all sources of retreat. Only by doing so can one be sure of maintaining that state of mind known as a burning desire to win - essential to success."
+<!-- Napoleon Hill -->
 ```
 
 </div>
