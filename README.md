@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Every person who wins in any undertaking must be willing to cut all sources of retreat. Only by doing so can one be sure of maintaining that state of mind known as a burning desire to win - essential to success."
-<!-- Napoleon Hill -->
+"It's hard to win in the NFL. You have to maintain a very delicate balance putting together the right team to be able to win and have any amount of success."
+<!-- Barry Sanders -->
 ```
 
 </div>
