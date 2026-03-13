@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's hard to win in the NFL. You have to maintain a very delicate balance putting together the right team to be able to win and have any amount of success."
-<!-- Barry Sanders -->
+"No foreign policy - no matter how ingenious - has any chance of success if it is born in the minds of a few and carried in the hearts of none."
+<!-- Henry Kissinger -->
 ```
 
 </div>
