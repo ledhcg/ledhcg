@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is dependent on effort."
-<!-- Sophocles -->
+"Men judge us by the success of our efforts. God looks at the efforts themselves."
+<!-- Charlotte Bronte -->
 ```
 
 </div>
