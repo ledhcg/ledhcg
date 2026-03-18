@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is often achieved by those who don't know that failure is inevitable."
-<!-- Coco Chanel -->
+"Success is achieved by developing our strengths, not by eliminating our weaknesses."
+<!-- Marilyn vos Savant -->
 ```
 
 </div>
