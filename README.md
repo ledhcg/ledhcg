@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is achieved by developing our strengths, not by eliminating our weaknesses."
-<!-- Marilyn vos Savant -->
+"I'm a forgiver. I might not forget, but I forgive. My mother, father and older brother always told me: 'Don't hold grudges. If you do that, you don't lower yourself down to your adversary. Just treat people the way you want to be treated.' I honestly think that's why I was able to survive and have some success."
+<!-- Monte Irvin -->
 ```
 
 </div>
