@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"While football embarrassingly exposes the excesses of capitalism, the Olympic sports have been used to propagate the neoliberal mantra that success is simply a matter of hard work."
-<!-- Mark Fisher -->
+"All you need in this life is ignorance and confidence, and then success is sure."
+<!-- Mark Twain -->
 ```
 
 </div>
