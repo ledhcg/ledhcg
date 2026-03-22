@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"All you need in this life is ignorance and confidence, and then success is sure."
-<!-- Mark Twain -->
+"It needs time. Nobody wants to hear it, but that's the truth: if you want to have success in the future, you have to be ready to work now."
+<!-- Jurgen Klopp -->
 ```
 
 </div>
