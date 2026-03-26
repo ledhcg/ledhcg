@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Though I had success in my research both when I was mad and when I was not, eventually I felt that my work would be better respected if I thought and acted like a 'normal' person."
-<!-- John Forbes Nash, Jr. -->
+"My childhood, adolescence and high school days are unusually important. If there has ever been a time that I developed a uniqueness and sense of humor and the ability to organize, it was then. In those early days, I developed the skills that gave me a certain degree of success in American politics."
+<!-- Lee Atwater -->
 ```
 
 </div>
