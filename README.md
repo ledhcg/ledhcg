@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A person has to remember that the road to success is always under construction. You have to get that through your head. That it is not easy becoming successful."
-<!-- Steve Harvey -->
+"When I took over Louis Vuitton, everyone said, 'It's already so big - what more can you do?' And since then, we've multiplied that success tenfold."
+<!-- Bernard Arnault -->
 ```
 
 </div>
