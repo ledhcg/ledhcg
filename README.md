@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"When I took over Louis Vuitton, everyone said, 'It's already so big - what more can you do?' And since then, we've multiplied that success tenfold."
-<!-- Bernard Arnault -->
+"The hardest thing to find in life is balance - especially the more success you have, the more you look to the other side of the gate. What do I need to stay grounded, in touch, in love, connected, emotionally balanced? Look within yourself."
+<!-- Celine Dion -->
 ```
 
 </div>
