@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The hardest thing to find in life is balance - especially the more success you have, the more you look to the other side of the gate. What do I need to stay grounded, in touch, in love, connected, emotionally balanced? Look within yourself."
-<!-- Celine Dion -->
+"Success is not an accident. When you put yourself in the right place at the right time, then you're likely to be more successful because of how you prepare yourself on a daily basis."
+<!-- Andrew Cherng -->
 ```
 
 </div>
