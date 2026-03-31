@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is not an accident. When you put yourself in the right place at the right time, then you're likely to be more successful because of how you prepare yourself on a daily basis."
-<!-- Andrew Cherng -->
+"Overcoming fear is the first step to success for entrepreneurs. The winners all exemplify that, and the hard work and commitment they have shown underlines what is needed to set up a business."
+<!-- Richard Branson -->
 ```
 
 </div>
