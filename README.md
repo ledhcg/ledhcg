@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Nothing good comes in life or athletics unless a lot of hard work has preceded the effort. Only temporary success is achieved by taking short cuts."
-<!-- Roger Staubach -->
+"Part of the secret of a success in life is to eat what you like and let the food fight it out inside."
+<!-- Mark Twain -->
 ```
 
 </div>
