@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Part of the secret of a success in life is to eat what you like and let the food fight it out inside."
-<!-- Mark Twain -->
+"The success of 'Luke Cage' breaking Netflix was the reason why we have 'Black Panther' and why we have 'Black Lightning,' 'Cloak & Dagger,' and all of these shows that are popping that represent this reinvigoration of people's love and interest in black superheroes."
+<!-- Simone Missick -->
 ```
 
 </div>
