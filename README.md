@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I'm a polarizing person, so people get caught up in hoping I fail. And just like success, failure is a perspective."
-<!-- CM Punk -->
+"The only thing that ever sat its way to success was a hen."
+<!-- Sarah Brown -->
 ```
 
 </div>
