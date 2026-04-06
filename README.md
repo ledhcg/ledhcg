@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The only thing that ever sat its way to success was a hen."
-<!-- Sarah Brown -->
+"Where there is humility, there is more success, and lasting success."
+<!-- Patrick Lencioni -->
 ```
 
 </div>
