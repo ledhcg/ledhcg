@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A lot of my success comes from black music. It's something I'm very proud of."
-<!-- Michael Bolton -->
+"The man who has done his level best... is a success, even though the world may write him down a failure."
+<!-- B. C. Forbes -->
 ```
 
 </div>
