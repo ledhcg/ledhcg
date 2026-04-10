@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The man who has done his level best... is a success, even though the world may write him down a failure."
-<!-- B. C. Forbes -->
+"Whatever success I may have attained is due to the fact that since I was old enough to work at all, my ambition has never deserted me."
+<!-- Anna Held -->
 ```
 
 </div>
