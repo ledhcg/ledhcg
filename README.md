@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Whatever success I may have attained is due to the fact that since I was old enough to work at all, my ambition has never deserted me."
-<!-- Anna Held -->
+"I do believe that my whole success goes back to that time I was arrested as a wayward boy at the age of thirteen. Because then I had to quit running around and began to learn something. Most of all, I began to learn music."
+<!-- Louis Armstrong -->
 ```
 
 </div>
