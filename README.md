@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Fighters don't just fight. Not the good ones who have long, long success. The guys who make championship runs. The guys who fight for world titles. They get fizzled out, chewed up and spit out like a revolving door and then the next guy or the next female comes in to take their spot."
-<!-- Aljamain Sterling -->
+"I wish that the Indians believed me a god, for upon the report of an enemy's valor oftentimes depends the success of a battle, and false reports have many times done as great things as true courage and resolution."
+<!-- Alexander the Great -->
 ```
 
 </div>
