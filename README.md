@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I wish that the Indians believed me a god, for upon the report of an enemy's valor oftentimes depends the success of a battle, and false reports have many times done as great things as true courage and resolution."
-<!-- Alexander the Great -->
+"You have reached the pinnacle of success as soon as you become uninterested in money, compliments, or publicity."
+<!-- Thomas Wolfe -->
 ```
 
 </div>
