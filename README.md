@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The best revenge is massive success."
-<!-- Frank Sinatra -->
+"Success comes to a writer as a rule, so gradually that it is always something of a shock to him to look back and realize the heights to which he has climbed."
+<!-- P. G. Wodehouse -->
 ```
 
 </div>
