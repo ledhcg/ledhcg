@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success comes to a writer as a rule, so gradually that it is always something of a shock to him to look back and realize the heights to which he has climbed."
-<!-- P. G. Wodehouse -->
+"Eighty percent of success is showing up."
+<!-- Woody Allen -->
 ```
 
 </div>
