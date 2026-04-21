@@ -18,7 +18,7 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Eighty percent of success is showing up."
+"Seventy percent of success in life is showing up."
 <!-- Woody Allen -->
 ```
 
