@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Seventy percent of success in life is showing up."
-<!-- Woody Allen -->
+"My success isn't a result of arrogance - it's a result of belief."
+<!-- Conor McGregor -->
 ```
 
 </div>
