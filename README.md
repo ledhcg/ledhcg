@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My success isn't a result of arrogance - it's a result of belief."
-<!-- Conor McGregor -->
+"The only thing I'm addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent."
+<!-- Charlie Sheen -->
 ```
 
 </div>
