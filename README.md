@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The only thing I'm addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent."
-<!-- Charlie Sheen -->
+"There are people out there who hate me and who say I'm arrogant, vain, and whatever. That's all part of my success. I am made to be the best."
+<!-- Cristiano Ronaldo -->
 ```
 
 </div>
