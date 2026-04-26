@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"All men's gains are the fruit of venturing."
-<!-- Herodotus -->
+"Every person who wins in any undertaking must be willing to cut all sources of retreat. Only by doing so can one be sure of maintaining that state of mind known as a burning desire to win - essential to success."
+<!-- Napoleon Hill -->
 ```
 
 </div>
