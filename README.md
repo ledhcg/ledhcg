@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Every person who wins in any undertaking must be willing to cut all sources of retreat. Only by doing so can one be sure of maintaining that state of mind known as a burning desire to win - essential to success."
-<!-- Napoleon Hill -->
+"With everything that is complex, we learn. If you don't learn, then it's an utter and abject failure. If you do learn, and you're able to apply that to the next situation, then you take away a measure of success."
+<!-- Ben Carson -->
 ```
 
 </div>
