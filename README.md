@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good."
-<!-- Joe Paterno -->
+"It's the quality of the ordinary, the straight, the square, that accounts for the great stability and success of our nation. It's a quality to be proud of. But it's a quality that many people seem to have neglected."
+<!-- Gerald R. Ford -->
 ```
 
 </div>
