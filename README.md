@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's the quality of the ordinary, the straight, the square, that accounts for the great stability and success of our nation. It's a quality to be proud of. But it's a quality that many people seem to have neglected."
-<!-- Gerald R. Ford -->
+"When one side benefits more than the other, that's a win-lose situation. To the winner it might look like success for a while, but in the long run, it breeds resentment and distrust."
+<!-- Stephen Covey -->
 ```
 
 </div>
