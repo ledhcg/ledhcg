@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"When one side benefits more than the other, that's a win-lose situation. To the winner it might look like success for a while, but in the long run, it breeds resentment and distrust."
-<!-- Stephen Covey -->
+"All men's gains are the fruit of venturing."
+<!-- Herodotus -->
 ```
 
 </div>
