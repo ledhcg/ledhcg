@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"All men's gains are the fruit of venturing."
-<!-- Herodotus -->
+"When I talk about success I don't mean music business, I just mean the people around me."
+<!-- Young Dolph -->
 ```
 
 </div>
