@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"When I talk about success I don't mean music business, I just mean the people around me."
-<!-- Young Dolph -->
+"Urgent optimism is the desire to act immediately to tackle an obstacle, combined with the belief that we have a reasonable hope of success."
+<!-- Jane McGonigal -->
 ```
 
 </div>
