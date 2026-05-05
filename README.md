@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Don't expect me to be some indie schmindie embarrassed about my success."
-<!-- Richard Ashcroft -->
+"The starting point of all achievement is desire."
+<!-- Napoleon Hill -->
 ```
 
 </div>
