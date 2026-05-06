@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The starting point of all achievement is desire."
-<!-- Napoleon Hill -->
+"Whatever you do to gain success, you have to hang in there and hope good things happen. Always think positive."
+<!-- Don Rickles -->
 ```
 
 </div>
