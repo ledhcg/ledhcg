@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"They succeed, because they think they can."
-<!-- Virgil -->
+"Coming together is a beginning; keeping together is progress; working together is success."
+<!-- Edward Everett Hale -->
 ```
 
 </div>
