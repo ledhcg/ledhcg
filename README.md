@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Coming together is a beginning; keeping together is progress; working together is success."
-<!-- Edward Everett Hale -->
+"Success is finding satisfaction in giving a little more than you take."
+<!-- Christopher Reeve -->
 ```
 
 </div>
