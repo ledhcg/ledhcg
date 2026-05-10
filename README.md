@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is finding satisfaction in giving a little more than you take."
-<!-- Christopher Reeve -->
+"Nothing tastes like success."
+<!-- Kartik Aaryan -->
 ```
 
 </div>
