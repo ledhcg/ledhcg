@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Nothing tastes like success."
-<!-- Kartik Aaryan -->
+"Basically, when you get to my age, you'll really measure your success in life by how many of the people you want to have love you actually do love you."
+<!-- Warren Buffett -->
 ```
 
 </div>
