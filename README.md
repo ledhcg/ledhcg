@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A great social success is a pretty girl who plays her cards as carefully as if she were plain."
-<!-- F. Scott Fitzgerald -->
+"Every soldier must know, before he goes into battle, how the little battle he is to fight fits into the larger picture, and how the success of his fighting will influence the battle as a whole."
+<!-- Bernard Law Montgomery -->
 ```
 
 </div>
