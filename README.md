@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Every soldier must know, before he goes into battle, how the little battle he is to fight fits into the larger picture, and how the success of his fighting will influence the battle as a whole."
-<!-- Bernard Law Montgomery -->
+"If, however, the success of a politician is to be measured by the degree in which he is able personally to influence the course of politics, and attach to himself a school of political thought, then Mr. Mill, in the best meaning of the words, has succeeded."
+<!-- Millicent Fawcett -->
 ```
 
 </div>
