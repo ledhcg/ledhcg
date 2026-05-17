@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We learned about gratitude and humility - that so many people had a hand in our success, from the teachers who inspired us to the janitors who kept our school clean... and we were taught to value everyone's contribution and treat everyone with respect."
-<!-- Michelle Obama -->
+"Failure is not an option. Everyone has to succeed."
+<!-- Arnold Schwarzenegger -->
 ```
 
 </div>
