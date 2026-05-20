@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good."
-<!-- Joe Paterno -->
+"It's the steady, quiet, plodding ones who win in the lifelong race."
+<!-- Robert W. Service -->
 ```
 
 </div>
