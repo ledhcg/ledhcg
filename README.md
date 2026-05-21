@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It's the steady, quiet, plodding ones who win in the lifelong race."
-<!-- Robert W. Service -->
+"A graduation ceremony is an event where the commencement speaker tells thousands of students dressed in identical caps and gowns that 'individuality' is the key to success."
+<!-- Robert Orben -->
 ```
 
 </div>
