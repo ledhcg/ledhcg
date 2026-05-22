@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A graduation ceremony is an event where the commencement speaker tells thousands of students dressed in identical caps and gowns that 'individuality' is the key to success."
-<!-- Robert Orben -->
+"People think that at the top there isn't much room. They tend to think of it as an Everest. My message is that there is tons of room at the top."
+<!-- Margaret Thatcher -->
 ```
 
 </div>
