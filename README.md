@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"People think that at the top there isn't much room. They tend to think of it as an Everest. My message is that there is tons of room at the top."
-<!-- Margaret Thatcher -->
+"The moment we believe that success is determined by an ingrained level of ability as opposed to resilience and hard work, we will be brittle in the face of adversity."
+<!-- Joshua Waitzkin -->
 ```
 
 </div>
