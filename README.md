@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The moment we believe that success is determined by an ingrained level of ability as opposed to resilience and hard work, we will be brittle in the face of adversity."
-<!-- Joshua Waitzkin -->
+"Success, to me, is just doing things that I'm really proud of."
+<!-- Dua Lipa -->
 ```
 
 </div>
