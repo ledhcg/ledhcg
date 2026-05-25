@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success, to me, is just doing things that I'm really proud of."
-<!-- Dua Lipa -->
+"Success to me is being a good person, treating people well."
+<!-- David LaChapelle -->
 ```
 
 </div>
