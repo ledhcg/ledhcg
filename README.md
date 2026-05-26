@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success to me is being a good person, treating people well."
-<!-- David LaChapelle -->
+"Apple's iPod success led them to believe an even bigger breakthrough was possible with the iPhone. In some respects, the iPhone hype overwhelmed even Apple."
+<!-- Steven Levy -->
 ```
 
 </div>
