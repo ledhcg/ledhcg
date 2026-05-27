@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Apple's iPod success led them to believe an even bigger breakthrough was possible with the iPhone. In some respects, the iPhone hype overwhelmed even Apple."
-<!-- Steven Levy -->
+"I wish that the Indians believed me a god, for upon the report of an enemy's valor oftentimes depends the success of a battle, and false reports have many times done as great things as true courage and resolution."
+<!-- Alexander the Great -->
 ```
 
 </div>
