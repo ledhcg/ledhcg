@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I wish that the Indians believed me a god, for upon the report of an enemy's valor oftentimes depends the success of a battle, and false reports have many times done as great things as true courage and resolution."
-<!-- Alexander the Great -->
+"If at first you don't succeed, try, try again. Then quit. There's no point in being a damn fool about it."
+<!-- W. C. Fields -->
 ```
 
 </div>
