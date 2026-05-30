@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There's probably people that go to Harvard and say, 'Listen, I went to Harvard. I got a great education, and I can't find a job, or I didn't become the success that I could have been.' Sure, I mean, you probably have that at every major university."
-<!-- Eric Trump -->
+"If you make it anywhere in life, you owe that success to the people along the way who stuck up for you, or made sacrifices for you, and gave you a push when you needed it. In my case, those people were my family."
+<!-- Gordie Howe -->
 ```
 
 </div>
