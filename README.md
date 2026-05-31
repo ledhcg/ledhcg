@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you make it anywhere in life, you owe that success to the people along the way who stuck up for you, or made sacrifices for you, and gave you a push when you needed it. In my case, those people were my family."
-<!-- Gordie Howe -->
+"To win is not important. To be successful is not even important. How to plan and prepare is crucial. When you plan very well and prepare very well, then success can come on the way. Then winning can come on your way."
+<!-- Eliud Kipchoge -->
 ```
 
 </div>
