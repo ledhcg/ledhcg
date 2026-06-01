@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"To win is not important. To be successful is not even important. How to plan and prepare is crucial. When you plan very well and prepare very well, then success can come on the way. Then winning can come on your way."
-<!-- Eliud Kipchoge -->
+"Success to me is being a good person, treating people well."
+<!-- David LaChapelle -->
 ```
 
 </div>
