@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no force like success, and that is why the individual makes all effort to surround himself throughout life with the evidence of it; as of the individual, so should it be of the nation."
-<!-- Marcus Garvey -->
+"Success has nothing to do with what you gain in life or accomplish for yourself. It's what you do for others."
+<!-- Danny Thomas -->
 ```
 
 </div>
