@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success has nothing to do with what you gain in life or accomplish for yourself. It's what you do for others."
-<!-- Danny Thomas -->
+"My definition of success is to live your life in a way that causes you to feel a ton of pleasure and very little pain - and because of your lifestyle, have the people around you feel a lot more pleasure than they do pain."
+<!-- Tony Robbins -->
 ```
 
 </div>
