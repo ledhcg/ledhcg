@@ -18,7 +18,7 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Before success comes in any man's life, he's sure to meet with much temporary defeat and, perhaps some failures. When defeat overtakes a man, the easiest and the most logical thing to do is to quit. That's exactly what the majority of men do."
+"Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best."
 <!-- Napoleon Hill -->
 ```
 
