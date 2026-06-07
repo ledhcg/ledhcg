@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best."
-<!-- Napoleon Hill -->
+"Everybody loves success, but they hate successful people."
+<!-- John McEnroe -->
 ```
 
 </div>
