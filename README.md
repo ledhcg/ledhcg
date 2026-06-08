@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Everybody loves success, but they hate successful people."
-<!-- John McEnroe -->
+"I believe that great success is possible in any field - from music to mathematics to macro trading."
+<!-- Paul Tudor Jones -->
 ```
 
 </div>
