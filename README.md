@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I believe that great success is possible in any field - from music to mathematics to macro trading."
-<!-- Paul Tudor Jones -->
+"Success is about dedication. You may not be where you want to be or do what you want to do when you're on the journey. But you've got to be willing to have vision and foresight that leads you to an incredible end."
+<!-- Usher -->
 ```
 
 </div>
