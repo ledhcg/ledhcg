@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My biggest failure is 'Metal Gear.' It's my biggest failure and my biggest success."
-<!-- Hideo Kojima -->
+"When I took over Louis Vuitton, everyone said, 'It's already so big - what more can you do?' And since then, we've multiplied that success tenfold."
+<!-- Bernard Arnault -->
 ```
 
 </div>
