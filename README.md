@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary."
-<!-- Winston Churchill -->
+"Think of yourself as on the threshold of unparalleled success. A whole, clear, glorious life lies before you. Achieve! Achieve!"
+<!-- Andrew Carnegie -->
 ```
 
 </div>
