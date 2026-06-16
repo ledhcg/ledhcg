@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Think of yourself as on the threshold of unparalleled success. A whole, clear, glorious life lies before you. Achieve! Achieve!"
-<!-- Andrew Carnegie -->
+"Success usually comes to those who are too busy to be looking for it."
+<!-- Henry David Thoreau -->
 ```
 
 </div>
