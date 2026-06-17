@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success usually comes to those who are too busy to be looking for it."
-<!-- Henry David Thoreau -->
+"If you aren't learning, you are regressing, because more growth comes from failure than from success."
+<!-- Shahid Khan -->
 ```
 
 </div>
