@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If you aren't learning, you are regressing, because more growth comes from failure than from success."
-<!-- Shahid Khan -->
+"Success is blocked by concentrating on it and planning for it... Success is shy - it won't come out while you're watching."
+<!-- Tennessee Williams -->
 ```
 
 </div>
