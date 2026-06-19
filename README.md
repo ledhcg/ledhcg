@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is blocked by concentrating on it and planning for it... Success is shy - it won't come out while you're watching."
-<!-- Tennessee Williams -->
+"There is no secret to success except hard work and getting something indefinable which we call 'the breaks.' In order for a writer to succeed, I suggest three things - read and write - and wait."
+<!-- Countee Cullen -->
 ```
 
 </div>
