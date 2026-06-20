@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no secret to success except hard work and getting something indefinable which we call 'the breaks.' In order for a writer to succeed, I suggest three things - read and write - and wait."
-<!-- Countee Cullen -->
+"No man ever achieved worth-while success who did not, at one time or other, find himself with at least one foot hanging well over the brink of failure."
+<!-- Napoleon Hill -->
 ```
 
 </div>
