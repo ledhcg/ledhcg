@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The only durable sense of success is if you've followed your calling."
-<!-- Jim Harrison -->
+"Diversity is essential to the success of the news industry, and journalists must include diverse voices in their coverage in order to reach a broader audience. We have stories to tell, but many in our audience have stopped listening because they can tell that we're not talking about them."
+<!-- Gwen Ifill -->
 ```
 
 </div>
