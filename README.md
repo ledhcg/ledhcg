@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I don't mind sharing my success with a super star or an entire ensemble cast. I have no qualms being part of a film that has super stars."
-<!-- Asin -->
+"It will, of course, be understood that directly or indirectly, soon or late, every advance in the sciences of human nature will contribute to our success in controlling human nature and changing it to the advantage of the common weal."
+<!-- Edward Thorndike -->
 ```
 
 </div>
