@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If everyone is moving forward together, then success takes care of itself."
-<!-- Henry Ford -->
+"Success, to me, is just doing things that I'm really proud of."
+<!-- Dua Lipa -->
 ```
 
 </div>
