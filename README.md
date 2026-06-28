@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Fame and success are very different things."
-<!-- Enya -->
+"Success is not to be pursued; it is to be attracted by the person you become."
+<!-- Jim Rohn -->
 ```
 
 </div>
