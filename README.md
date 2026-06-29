@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is not to be pursued; it is to be attracted by the person you become."
-<!-- Jim Rohn -->
+"The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty."
+<!-- Zig Ziglar -->
 ```
 
 </div>
