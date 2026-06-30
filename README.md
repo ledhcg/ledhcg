@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty."
-<!-- Zig Ziglar -->
+"Let us realize that: the privilege to work is a gift, the power to work is a blessing, the love of work is success!"
+<!-- David O. McKay -->
 ```
 
 </div>
