@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Let us realize that: the privilege to work is a gift, the power to work is a blessing, the love of work is success!"
-<!-- David O. McKay -->
+"A rejection is nothing more than a necessary step in the pursuit of success."
+<!-- Bo Bennett -->
 ```
 
 </div>
