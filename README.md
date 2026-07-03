@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We released 'The Interview' through a variety of platforms, and we continue to look for other distribution options. Throughout this whole process, we never stopped - not for a single moment - trying to secure a broad release. Our studio takes great pride in continuing to grow the release of this movie and making it a success."
-<!-- Michael Lynton -->
+"Often people become our friend or follower with an undercurrent of resentment in our having more success than they have. They secretly desire the opportunity to take us down a notch; they have a nose for any misstep on our part they can exploit."
+<!-- Robert Greene -->
 ```
 
 </div>
