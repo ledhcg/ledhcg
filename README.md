@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Failure is the condiment that gives success its flavor."
-<!-- Truman Capote -->
+"You have reached the pinnacle of success as soon as you become uninterested in money, compliments, or publicity."
+<!-- Thomas Wolfe -->
 ```
 
 </div>
