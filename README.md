@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You have reached the pinnacle of success as soon as you become uninterested in money, compliments, or publicity."
-<!-- Thomas Wolfe -->
+"Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?"
+<!-- Tony Robbins -->
 ```
 
 </div>
