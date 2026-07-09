@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is all about persistence and doing the right thing for the long term."
-<!-- Bruce Rauner -->
+"If you have a success in your life, why can't we hold on to that? Why can't that be good enough for a lifetime; why do we always have to be ramping up?"
+<!-- Jake Paltrow -->
 ```
 
 </div>
