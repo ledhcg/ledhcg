@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Your success story is a bigger story than whatever you're trying to say on stage. Success makes life easier. It doesn't make living easier."
-<!-- Bruce Springsteen -->
+"Ambition is the path to success. Persistence is the vehicle you arrive in."
+<!-- Bill Bradley -->
 ```
 
 </div>
