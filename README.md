@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Ambition is the path to success. Persistence is the vehicle you arrive in."
-<!-- Bill Bradley -->
+"Nothing fails like success."
+<!-- Lincoln Steffens -->
 ```
 
 </div>
