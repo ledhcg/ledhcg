@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"However difficult life may seem, there is always something you can do and succeed at."
-<!-- Stephen Hawking -->
+"Eastern Muslim countries, such as Indonesia and Malaysia, are relative success stories, as they are not afflicted by the Arab heritage of retreat and humiliation at the hands of the French, Spanish, British, Turks, and Persians."
+<!-- Conrad Black -->
 ```
 
 </div>
