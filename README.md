@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Fortune befriends the bold."
-<!-- Emily Dickinson -->
+"Success in golf depends less on strength of body than upon strength of mind and character."
+<!-- Arnold Palmer -->
 ```
 
 </div>
