@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success in golf depends less on strength of body than upon strength of mind and character."
-<!-- Arnold Palmer -->
+"Hard work is the key for success."
+<!-- P. V. Sindhu -->
 ```
 
 </div>
