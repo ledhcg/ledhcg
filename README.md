@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I do believe that my whole success goes back to that time I was arrested as a wayward boy at the age of thirteen. Because then I had to quit running around and began to learn something. Most of all, I began to learn music."
-<!-- Louis Armstrong -->
+"Apart from being motivation for themselves, I think big givers should also talk about their philanthropy so that their work and their success stories prove inspirational enough for many others to follow."
+<!-- Rakesh Jhunjhunwala -->
 ```
 
 </div>
