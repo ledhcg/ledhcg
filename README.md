@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Apart from being motivation for themselves, I think big givers should also talk about their philanthropy so that their work and their success stories prove inspirational enough for many others to follow."
-<!-- Rakesh Jhunjhunwala -->
+"When pastors don't have rich spiritual lives with Christ, they become victimized by other models of success - models conveyed to them by their training, by their experience in the church, or just by our culture."
+<!-- Dallas Willard -->
 ```
 
 </div>
