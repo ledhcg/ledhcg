@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"When pastors don't have rich spiritual lives with Christ, they become victimized by other models of success - models conveyed to them by their training, by their experience in the church, or just by our culture."
-<!-- Dallas Willard -->
+"If you have a success in your life, why can't we hold on to that? Why can't that be good enough for a lifetime; why do we always have to be ramping up?"
+<!-- Jake Paltrow -->
 ```
 
 </div>
