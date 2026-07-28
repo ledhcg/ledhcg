@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is only meaningful and enjoyable if it feels like your own."
-<!-- Michelle Obama -->
+"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."
+<!-- Elbert Hubbard -->
 ```
 
 </div>
