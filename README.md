@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."
-<!-- Elbert Hubbard -->
+"Honesty and loyalty are key. If two people can be honest with each other about everything, that's probably the biggest key to success."
+<!-- Taylor Lautner -->
 ```
 
 </div>
