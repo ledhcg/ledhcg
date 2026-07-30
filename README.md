@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Honesty and loyalty are key. If two people can be honest with each other about everything, that's probably the biggest key to success."
-<!-- Taylor Lautner -->
+"I couldn't wait for success, so I went ahead without it."
+<!-- Jonathan Winters -->
 ```
 
 </div>
