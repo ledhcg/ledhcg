@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I couldn't wait for success, so I went ahead without it."
-<!-- Jonathan Winters -->
+"You as an individual coach have a responsibility to try to give those players who put themselves at risk and in harm's way a chance to achieve success, and that goes for universities and professional teams, as well."
+<!-- Bill Parcells -->
 ```
 
 </div>
