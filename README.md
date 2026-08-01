@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You as an individual coach have a responsibility to try to give those players who put themselves at risk and in harm's way a chance to achieve success, and that goes for universities and professional teams, as well."
-<!-- Bill Parcells -->
+"Thought is the original source of all wealth, all success, all material gain, all great discoveries and inventions, and of all achievement."
+<!-- Claude M. Bristol -->
 ```
 
 </div>
