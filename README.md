@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Thought is the original source of all wealth, all success, all material gain, all great discoveries and inventions, and of all achievement."
-<!-- Claude M. Bristol -->
+"Nothing good comes in life or athletics unless a lot of hard work has preceded the effort. Only temporary success is achieved by taking short cuts."
+<!-- Roger Staubach -->
 ```
 
 </div>
