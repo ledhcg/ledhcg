@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Nothing good comes in life or athletics unless a lot of hard work has preceded the effort. Only temporary success is achieved by taking short cuts."
-<!-- Roger Staubach -->
+"There are people who can achieve huge success in life, while adding a bit of fun and a splash of colour to this increasingly grey world."
+<!-- Peter James -->
 ```
 
 </div>
