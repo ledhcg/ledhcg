@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There are people who can achieve huge success in life, while adding a bit of fun and a splash of colour to this increasingly grey world."
-<!-- Peter James -->
+"It wasn't success, because Teller and I, by the time Asparagus Valley got together - within a year, we had achieved all our goals. I mean, our goal was to earn our living doing exactly what we wanted. Which is many people's goal."
+<!-- Penn Jillette -->
 ```
 
 </div>
