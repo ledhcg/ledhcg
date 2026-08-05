@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It wasn't success, because Teller and I, by the time Asparagus Valley got together - within a year, we had achieved all our goals. I mean, our goal was to earn our living doing exactly what we wanted. Which is many people's goal."
-<!-- Penn Jillette -->
+"In this great country, we celebrate success. We don't want to penalize those who have done well."
+<!-- Kamala Harris -->
 ```
 
 </div>
