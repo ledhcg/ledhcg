@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In this great country, we celebrate success. We don't want to penalize those who have done well."
-<!-- Kamala Harris -->
+"It is not the style of clothes one wears, neither the kind of automobile one drives, nor the amount of money one has in the bank, that counts. These mean nothing. It is simply service that measures success."
+<!-- George Washington Carver -->
 ```
 
 </div>
