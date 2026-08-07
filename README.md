@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It is not the style of clothes one wears, neither the kind of automobile one drives, nor the amount of money one has in the bank, that counts. These mean nothing. It is simply service that measures success."
-<!-- George Washington Carver -->
+"Success is a public affair. Failure is a private funeral."
+<!-- Rosalind Russell -->
 ```
 
 </div>
