@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a public affair. Failure is a private funeral."
-<!-- Rosalind Russell -->
+"Success is that old ABC - ability, breaks, and courage."
+<!-- Charles Luckman -->
 ```
 
 </div>
