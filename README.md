@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is that old ABC - ability, breaks, and courage."
-<!-- Charles Luckman -->
+"Success is the maximum utilization of the ability that you have."
+<!-- Zig Ziglar -->
 ```
 
 </div>
