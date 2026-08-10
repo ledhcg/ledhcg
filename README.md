@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the maximum utilization of the ability that you have."
-<!-- Zig Ziglar -->
+"Success isn't about the end result, it's about what you learn along the way."
+<!-- Vera Wang -->
 ```
 
 </div>
