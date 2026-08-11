@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success isn't about the end result, it's about what you learn along the way."
-<!-- Vera Wang -->
+"Perseverance is also key to success in any endeavor, but without perseverance in combat, there can be no victory."
+<!-- Jocko Willink -->
 ```
 
 </div>
