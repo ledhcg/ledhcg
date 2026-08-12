@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Perseverance is also key to success in any endeavor, but without perseverance in combat, there can be no victory."
-<!-- Jocko Willink -->
+"Success is never final, failure is never fatal. It's courage that counts."
+<!-- John Wooden -->
 ```
 
 </div>
