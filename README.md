@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"No foreign policy - no matter how ingenious - has any chance of success if it is born in the minds of a few and carried in the hearts of none."
-<!-- Henry Kissinger -->
+"That's something to be proud of - to have people say that you're the kind of guy who doesn't know how to quit. Try to be that man the next time you foul up: You'll enjoy more success than you ever would by cursing the guys living the charmed lives."
+<!-- Mark Schlereth -->
 ```
 
 </div>
