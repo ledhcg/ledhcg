@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I've always believed that success for anyone is all about drive, dedication, and desire, but for me, it's also been about confidence and faith."
-<!-- Stephen Curry -->
+"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."
+<!-- James Allen -->
 ```
 
 </div>
