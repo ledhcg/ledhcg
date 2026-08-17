@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."
-<!-- James Allen -->
+"Most great people have attained their greatest success just one step beyond their greatest failure."
+<!-- Napoleon Hill -->
 ```
 
 </div>
