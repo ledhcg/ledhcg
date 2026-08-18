@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Most great people have attained their greatest success just one step beyond their greatest failure."
-<!-- Napoleon Hill -->
+"Measuring success in cultural diplomacy - the use of education, creative expression in any form, or people-to-people exchange to increase understanding across regions, cultures, or peoples - is challenging. How does one quantify changes in attitude, abandoning stereotypes, or feeling empathy as a result of a performance, a film, a book?"
+<!-- Cynthia P. Schneider -->
 ```
 
 </div>
