@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Our international success started out first because we became the No. 1 casual wear brand in our home market of Japan. Then, we set up stores in the world's major fashion centers of New York, Paris and London."
-<!-- Tadashi Yanai -->
+"Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised."
+<!-- Ben Jonson -->
 ```
 
 </div>
