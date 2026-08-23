@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised."
-<!-- Ben Jonson -->
+"The superior man makes the difficulty to be overcome his first interest; success only comes later."
+<!-- Confucius -->
 ```
 
 </div>
