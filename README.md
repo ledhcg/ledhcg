@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The superior man makes the difficulty to be overcome his first interest; success only comes later."
-<!-- Confucius -->
+"The secret of success is to be ready when your opportunity comes."
+<!-- Benjamin Disraeli -->
 ```
 
 </div>
