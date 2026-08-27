@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I planned my success. I knew it was going to happen."
-<!-- Erykah Badu -->
+"My powers are ordinary. Only my application brings me success."
+<!-- Isaac Newton -->
 ```
 
 </div>
