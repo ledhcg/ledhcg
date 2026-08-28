@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My powers are ordinary. Only my application brings me success."
-<!-- Isaac Newton -->
+"The secret to my success is that I bit off more than I could chew and chewed as fast as I could."
+<!-- Paul Hogan -->
 ```
 
 </div>
