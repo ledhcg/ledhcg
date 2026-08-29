@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The secret to my success is that I bit off more than I could chew and chewed as fast as I could."
-<!-- Paul Hogan -->
+"You may lose your wife, you may lose your dog, your mother may hate you. None of those things matter. What matters is that you achieve success and become free. Then you can do whatever you like."
+<!-- Kevin O'Leary -->
 ```
 
 </div>
