@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You may lose your wife, you may lose your dog, your mother may hate you. None of those things matter. What matters is that you achieve success and become free. Then you can do whatever you like."
-<!-- Kevin O'Leary -->
+"In the big picture, few of our careers live up to the dreams we nursed when we were young. In fact, one underside of success is that it's nearly always penultimate, and so every accomplishment merely raises the bar."
+<!-- Lionel Shriver -->
 ```
 
 </div>
