@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"In the big picture, few of our careers live up to the dreams we nursed when we were young. In fact, one underside of success is that it's nearly always penultimate, and so every accomplishment merely raises the bar."
-<!-- Lionel Shriver -->
+"It wasn't success, because Teller and I, by the time Asparagus Valley got together - within a year, we had achieved all our goals. I mean, our goal was to earn our living doing exactly what we wanted. Which is many people's goal."
+<!-- Penn Jillette -->
 ```
 
 </div>
