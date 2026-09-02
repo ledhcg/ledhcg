@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"A constant struggle, a ceaseless battle to bring success from inhospitable surroundings, is the price of all great achievements."
-<!-- Orison Swett Marden -->
+"Nothing good comes easy, and there's no elevator to success. You've got to take the stairs."
+<!-- Carlos Correa -->
 ```
 
 </div>
