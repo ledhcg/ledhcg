@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Nothing good comes easy, and there's no elevator to success. You've got to take the stairs."
-<!-- Carlos Correa -->
+"Success is simple. Do what's right, the right way, at the right time."
+<!-- Arnold H. Glasow -->
 ```
 
 </div>
