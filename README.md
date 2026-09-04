@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is simple. Do what's right, the right way, at the right time."
-<!-- Arnold H. Glasow -->
+"Think little goals and expect little achievements. Think big goals and win big success."
+<!-- David Joseph Schwartz -->
 ```
 
 </div>
