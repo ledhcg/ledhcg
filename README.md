@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Think little goals and expect little achievements. Think big goals and win big success."
-<!-- David Joseph Schwartz -->
+"Your positive action combined with positive thinking results in success."
+<!-- Shiv Khera -->
 ```
 
 </div>
