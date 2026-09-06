@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Your positive action combined with positive thinking results in success."
-<!-- Shiv Khera -->
+"Success is 99 percent failure."
+<!-- Soichiro Honda -->
 ```
 
 </div>
