@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is 99 percent failure."
-<!-- Soichiro Honda -->
+"They talk about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?"
+<!-- Fidel Castro -->
 ```
 
 </div>
