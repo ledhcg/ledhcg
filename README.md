@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"They talk about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?"
-<!-- Fidel Castro -->
+"Every failure is a step to success."
+<!-- William Whewell -->
 ```
 
 </div>
