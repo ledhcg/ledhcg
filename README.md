@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Every failure is a step to success."
-<!-- William Whewell -->
+"Success is a process, a quality of mind and way of being, an outgoing affirmation of life."
+<!-- Alex Noble -->
 ```
 
 </div>
