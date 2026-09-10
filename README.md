@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a process, a quality of mind and way of being, an outgoing affirmation of life."
-<!-- Alex Noble -->
+"Everything I have, my career, my success, my family, I owe to America."
+<!-- Arnold Schwarzenegger -->
 ```
 
 </div>
