@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Everything I have, my career, my success, my family, I owe to America."
-<!-- Arnold Schwarzenegger -->
+"Success is a matter of one's own feeling about oneself."
+<!-- Edward James Olmos -->
 ```
 
 </div>
