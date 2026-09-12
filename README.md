@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a matter of one's own feeling about oneself."
-<!-- Edward James Olmos -->
+"The road to success is always under construction."
+<!-- Lily Tomlin -->
 ```
 
 </div>
