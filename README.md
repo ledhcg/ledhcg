@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The road to success is always under construction."
-<!-- Lily Tomlin -->
+"When entrepreneurs talk about their success, they rarely talk about luck. I think that's because most of them think the concept denigrates the hard work and smart thinking they put into their projects. But luck is a huge part of any successful business."
+<!-- Marc Randolph -->
 ```
 
 </div>
