@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"When entrepreneurs talk about their success, they rarely talk about luck. I think that's because most of them think the concept denigrates the hard work and smart thinking they put into their projects. But luck is a huge part of any successful business."
-<!-- Marc Randolph -->
+"Your morning sets up the success of your day. So many people wake up and immediately check text messages, emails, and social media. I use my first hour awake for my morning routine of breakfast and meditation to prepare myself."
+<!-- Caroline Ghosn -->
 ```
 
 </div>
