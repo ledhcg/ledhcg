@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"For every success that we have, for every change of judgement or perception or opening eyes of someone who views a women as somebody with the potential to be equal to her male counterpart, I think that makes change in society. I think that is a powerful message."
-<!-- Leah Williamson -->
+"I tried out various experiments described in treatises on physics and chemistry, and the results were sometimes unexpected. At times, I would be encouraged by a little unhoped-for success; at others, I would be in the deepest despair because of accidents and failures resulting from my inexperience."
+<!-- Marie Curie -->
 ```
 
 </div>
