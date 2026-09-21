@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I'm hopeful. I know there is a lot of ambition in Washington, obviously. But I hope the ambitious realize that they are more likely to succeed with success as opposed to failure."
-<!-- George W. Bush -->
+"Basically, when you get to my age, you'll really measure your success in life by how many of the people you want to have love you actually do love you."
+<!-- Warren Buffett -->
 ```
 
 </div>
