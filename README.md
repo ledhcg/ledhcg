@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Basically, when you get to my age, you'll really measure your success in life by how many of the people you want to have love you actually do love you."
-<!-- Warren Buffett -->
+"Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around."
+<!-- A. P. J. Abdul Kalam -->
 ```
 
 </div>
