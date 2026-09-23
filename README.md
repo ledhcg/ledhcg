@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around."
-<!-- A. P. J. Abdul Kalam -->
+"For success, attitude is equally as important as ability."
+<!-- Walter Scott -->
 ```
 
 </div>
