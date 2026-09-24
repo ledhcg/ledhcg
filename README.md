@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"For success, attitude is equally as important as ability."
-<!-- Walter Scott -->
+"If he had listened to some of his advisors and had tried to make the Marshall Plan a political dumping ground for unqualified politicians, it couldn't have been a success."
+<!-- Paul Hoffman -->
 ```
 
 </div>
