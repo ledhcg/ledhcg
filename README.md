@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"If he had listened to some of his advisors and had tried to make the Marshall Plan a political dumping ground for unqualified politicians, it couldn't have been a success."
-<!-- Paul Hoffman -->
+"Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised."
+<!-- Ben Jonson -->
 ```
 
 </div>
