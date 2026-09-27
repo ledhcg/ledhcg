@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success comes from knowing that you did your best to become the best that you are capable of becoming."
-<!-- John Wooden -->
+"Will I be a success? I don't know."
+<!-- Pep Guardiola -->
 ```
 
 </div>
