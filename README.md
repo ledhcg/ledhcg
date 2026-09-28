@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Will I be a success? I don't know."
-<!-- Pep Guardiola -->
+"There is no secret to success except hard work and getting something indefinable which we call 'the breaks.' In order for a writer to succeed, I suggest three things - read and write - and wait."
+<!-- Countee Cullen -->
 ```
 
 </div>
