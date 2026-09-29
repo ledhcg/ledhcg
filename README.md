@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"There is no secret to success except hard work and getting something indefinable which we call 'the breaks.' In order for a writer to succeed, I suggest three things - read and write - and wait."
-<!-- Countee Cullen -->
+"We were all born with a certain degree of power. The key to success is discovering this innate power and using it daily to deal with whatever challenges come our way."
+<!-- Les Brown -->
 ```
 
 </div>
