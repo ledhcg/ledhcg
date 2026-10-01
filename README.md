@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We were all born with a certain degree of power. The key to success is discovering this innate power and using it daily to deal with whatever challenges come our way."
-<!-- Les Brown -->
+"I've learned that success comes in a very prickly package. Whether you choose to accept it or not is up to you."
+<!-- Sandra Bullock -->
 ```
 
 </div>
