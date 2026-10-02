@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I've learned that success comes in a very prickly package. Whether you choose to accept it or not is up to you."
-<!-- Sandra Bullock -->
+"I realized that my success comes from doing the things I love most."
+<!-- Rick Ross -->
 ```
 
 </div>
