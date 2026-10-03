@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"I realized that my success comes from doing the things I love most."
-<!-- Rick Ross -->
+"Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success."
+<!-- Og Mandino -->
 ```
 
 </div>
