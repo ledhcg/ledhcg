@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success isn't measured by money or power or social rank. Success is measured by your discipline and inner peace."
-<!-- Mike Ditka -->
+"When people have success, one of two things happen. They either get really satisfied and want to keep thinking about it and talking about what they did, or the success becomes a little addictive, and it makes them want to keep having more."
+<!-- Nick Saban -->
 ```
 
 </div>
