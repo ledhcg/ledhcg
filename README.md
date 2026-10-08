@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is."
-<!-- Bob Feller -->
+"Success is the space one occupies in the newspaper. Success is one day's insolence."
+<!-- Elias Canetti -->
 ```
 
 </div>
