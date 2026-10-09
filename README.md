@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the space one occupies in the newspaper. Success is one day's insolence."
-<!-- Elias Canetti -->
+"The starting point of all achievement is desire."
+<!-- Napoleon Hill -->
 ```
 
 </div>
