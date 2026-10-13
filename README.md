@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The only way to permanently change the temperature in the room is to reset the thermostat. In the same way, the only way to change your level of financial success 'permanently' is to reset your financial thermostat. But it is your choice whether you choose to change."
-<!-- T. Harv Eker -->
+"One might think that the money value of an invention constitutes its reward to the man who loves his work. But... I continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success."
+<!-- Thomas A. Edison -->
 ```
 
 </div>
