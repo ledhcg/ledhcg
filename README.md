@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"One might think that the money value of an invention constitutes its reward to the man who loves his work. But... I continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success."
-<!-- Thomas A. Edison -->
+"Management is efficiency in climbing the ladder of success; leadership determines whether the ladder is leaning against the right wall."
+<!-- Stephen Covey -->
 ```
 
 </div>
