@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Management is efficiency in climbing the ladder of success; leadership determines whether the ladder is leaning against the right wall."
-<!-- Stephen Covey -->
+"Success breeds complacency. Complacency breeds failure. Only the paranoid survive."
+<!-- Andy Grove -->
 ```
 
 </div>
