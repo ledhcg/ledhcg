@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success breeds complacency. Complacency breeds failure. Only the paranoid survive."
-<!-- Andy Grove -->
+"Diligence is the mother of good fortune."
+<!-- Benjamin Disraeli -->
 ```
 
 </div>
