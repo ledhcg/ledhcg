@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Diligence is the mother of good fortune."
-<!-- Benjamin Disraeli -->
+"Success depends upon previous preparation, and without such preparation there is sure to be failure."
+<!-- Confucius -->
 ```
 
 </div>
