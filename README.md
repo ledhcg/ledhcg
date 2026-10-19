@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Part of being a man is learning to take responsibility for your successes and for your failures. You can't go blaming others or being jealous. Seeing somebody else's success as your failure is a cancerous way to live."
-<!-- Kevin Bacon -->
+"People who achieve the highest levels of success - whether in business or in raising families or simply in discovering fulfillment and satisfaction and purpose in life - are those who place their focus on other people rather than themselves."
+<!-- Richard M. DeVos -->
 ```
 
 </div>
