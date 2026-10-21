@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success - keeping your mind awake and your desire asleep."
-<!-- Walter Scott -->
+"Success is like reaching an important birthday and finding you're exactly the same."
+<!-- Audrey Hepburn -->
 ```
 
 </div>
