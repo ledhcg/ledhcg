@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is like reaching an important birthday and finding you're exactly the same."
-<!-- Audrey Hepburn -->
+"It took about 10 years' time for Shopify to be an overnight success."
+<!-- Tobias Lutke -->
 ```
 
 </div>
