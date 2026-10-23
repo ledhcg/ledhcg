@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"It took about 10 years' time for Shopify to be an overnight success."
-<!-- Tobias Lutke -->
+"There is no substitute for victory."
+<!-- Douglas MacArthur -->
 ```
 
 </div>
