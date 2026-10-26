@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Refuse to accept the belief that your professional relevance, career success or financial security turns on the next update on the latest technology. Sometimes it's good to put the paddle down and just let the canoe glide."
-<!-- Simon Mainwaring -->
+"Commitment, belief and positive attitude are all important if you're going to be a success, whether you're in sports, in business or, as in my case, anthropology."
+<!-- Donald Johanson -->
 ```
 
 </div>
