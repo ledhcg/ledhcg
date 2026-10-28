@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Commitment, belief and positive attitude are all important if you're going to be a success, whether you're in sports, in business or, as in my case, anthropology."
-<!-- Donald Johanson -->
+"Education is a fundamental principle of what made America a success. We can't afford to throw any young people away."
+<!-- Ben Carson -->
 ```
 
 </div>
