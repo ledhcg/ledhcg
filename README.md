@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Education is a fundamental principle of what made America a success. We can't afford to throw any young people away."
-<!-- Ben Carson -->
+"Success is a state of mind. If you want success, start thinking of yourself as a success."
+<!-- Joyce Brothers -->
 ```
 
 </div>
