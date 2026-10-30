@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is a state of mind. If you want success, start thinking of yourself as a success."
-<!-- Joyce Brothers -->
+"Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks."
+<!-- Stephen Hawking -->
 ```
 
 </div>
