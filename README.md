@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks."
-<!-- Stephen Hawking -->
+"Humility is the true key to success. Successful people lose their way at times. They often embrace and overindulge from the fruits of success. Humility halts this arrogance and self-indulging trap. Humble people share the credit and wealth, remaining focused and hungry to continue the journey of success."
+<!-- Rick Pitino -->
 ```
 
 </div>
