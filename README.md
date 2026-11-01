@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Humility is the true key to success. Successful people lose their way at times. They often embrace and overindulge from the fruits of success. Humility halts this arrogance and self-indulging trap. Humble people share the credit and wealth, remaining focused and hungry to continue the journey of success."
-<!-- Rick Pitino -->
+"Some people dream of success, while other people get up every morning and make it happen."
+<!-- Wayne Huizenga -->
 ```
 
 </div>
