@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Some people dream of success, while other people get up every morning and make it happen."
-<!-- Wayne Huizenga -->
+"My powers are ordinary. Only my application brings me success."
+<!-- Isaac Newton -->
 ```
 
 </div>
