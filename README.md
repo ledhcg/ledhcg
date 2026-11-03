@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"My powers are ordinary. Only my application brings me success."
-<!-- Isaac Newton -->
+"We're born with success. It is only others who point out our failures, and what they attribute to us as failure."
+<!-- Whoopi Goldberg -->
 ```
 
 </div>
