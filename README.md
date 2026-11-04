@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"We're born with success. It is only others who point out our failures, and what they attribute to us as failure."
-<!-- Whoopi Goldberg -->
+"One might think that the money value of an invention constitutes its reward to the man who loves his work. But... I continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success."
+<!-- Thomas A. Edison -->
 ```
 
 </div>
