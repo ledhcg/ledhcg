@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is the progressive realization of predetermined, worthwhile, personal goals."
-<!-- Paul J. Meyer -->
+"Success is not just making money. Success is happiness. Success is fulfillment; it's the ability to give."
+<!-- Adam Neumann -->
 ```
 
 </div>
