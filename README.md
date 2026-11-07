@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is not just making money. Success is happiness. Success is fulfillment; it's the ability to give."
-<!-- Adam Neumann -->
+"We learned about honesty and integrity - that the truth matters... that you don't take shortcuts or play by your own set of rules... and success doesn't count unless you earn it fair and square."
+<!-- Michelle Obama -->
 ```
 
 </div>
