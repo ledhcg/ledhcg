@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"The worst part of success is to try finding someone who is happy for you."
-<!-- Bette Midler -->
+"Part of being a man is learning to take responsibility for your successes and for your failures. You can't go blaming others or being jealous. Seeing somebody else's success as your failure is a cancerous way to live."
+<!-- Kevin Bacon -->
 ```
 
 </div>
