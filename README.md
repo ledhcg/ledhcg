@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Part of being a man is learning to take responsibility for your successes and for your failures. You can't go blaming others or being jealous. Seeing somebody else's success as your failure is a cancerous way to live."
-<!-- Kevin Bacon -->
+"Success doesn't mean that you are healthy, success doesn't mean that you're happy, success doesn't mean that you're rested. Success really doesn't mean that you look good, or feel good, or are good."
+<!-- Victoria Principal -->
 ```
 
 </div>
