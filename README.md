@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is getting what you want. Happiness is wanting what you get."
-<!-- Dale Carnegie -->
+"As a kid from Compton, you can get all the success in the world and still question your worth."
+<!-- Kendrick Lamar -->
 ```
 
 </div>
