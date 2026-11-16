@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"As a kid from Compton, you can get all the success in the world and still question your worth."
-<!-- Kendrick Lamar -->
+"Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable."
+<!-- John Wooden -->
 ```
 
 </div>
