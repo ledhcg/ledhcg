@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable."
-<!-- John Wooden -->
+"Eastern Muslim countries, such as Indonesia and Malaysia, are relative success stories, as they are not afflicted by the Arab heritage of retreat and humiliation at the hands of the French, Spanish, British, Turks, and Persians."
+<!-- Conrad Black -->
 ```
 
 </div>
