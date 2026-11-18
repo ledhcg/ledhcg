@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Eastern Muslim countries, such as Indonesia and Malaysia, are relative success stories, as they are not afflicted by the Arab heritage of retreat and humiliation at the hands of the French, Spanish, British, Turks, and Persians."
-<!-- Conrad Black -->
+"Success is due to our stretching to the challenges of life. Failure comes when we shrink from them."
+<!-- John C. Maxwell -->
 ```
 
 </div>
