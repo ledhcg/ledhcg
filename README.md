@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"When I prayed for success, I forgot to ask for sound sleep and good digestion."
-<!-- Mason Cooley -->
+"Anybody who succeeds is helping people. The secret to success is find a need and fill it; find a hurt and heal it; find a problem and solve it."
+<!-- Robert H. Schuller -->
 ```
 
 </div>
