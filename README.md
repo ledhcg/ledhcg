@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success, to me, is just doing things that I'm really proud of."
-<!-- Dua Lipa -->
+"No one who achieves success does so without acknowledging the help of others. The wise and confident acknowledge this help with gratitude."
+<!-- Alfred North Whitehead -->
 ```
 
 </div>
