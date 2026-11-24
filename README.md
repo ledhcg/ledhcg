@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"No one who achieves success does so without acknowledging the help of others. The wise and confident acknowledge this help with gratitude."
-<!-- Alfred North Whitehead -->
+"Success comes to a writer as a rule, so gradually that it is always something of a shock to him to look back and realize the heights to which he has climbed."
+<!-- P. G. Wodehouse -->
 ```
 
 </div>
