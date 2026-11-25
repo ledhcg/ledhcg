@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"Success comes to a writer as a rule, so gradually that it is always something of a shock to him to look back and realize the heights to which he has climbed."
-<!-- P. G. Wodehouse -->
+"There's enormous progressive activism and, more often than not, success at the grassroots level - everything from living wage campaigns to efforts to finance our elections are having terrific success."
+<!-- Jim Hightower -->
 ```
 
 </div>
