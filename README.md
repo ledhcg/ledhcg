@@ -18,8 +18,8 @@ ______________________________________________________________ .
 ## .Quote of the Day.
 
 ```html
-"You always pass failure on your way to success."
-<!-- Mickey Rooney -->
+"You never achieve success unless you like what you are doing."
+<!-- Dale Carnegie -->
 ```
 
 </div>
